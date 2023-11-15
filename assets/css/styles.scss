@@ -1,0 +1,30 @@
+---
+---
+// @import "index";
+
+@import "{{ site.theme }}";
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+table {
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+.center_element {
+    max-width: 95%; /* this is mainly an IE 10-11 fix */
+    text-align: left;
+    margin: auto; /* this is for overflowing content */
+    float: inherit;
+    width: 60%;
+}
