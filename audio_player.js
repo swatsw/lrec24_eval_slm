@@ -1,4 +1,4 @@
-var default_vol = 0.1
+var default_vol = 0.2
 function get_default_vol(){
     return default_vol;
 }
@@ -11,6 +11,7 @@ function add_default_vol_listner(){
     default_vol_element = document.getElementById('default_vol_control')
     default_vol_element.addEventListener('input', function(){
         set_default_vol(this.value)
+        // console.log('default volume changed to ' + this.value)
     })
 }
 

@@ -15,15 +15,18 @@
 <h1>
     Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model
    </h1>
+<h2>
+    (In submission LREC 2024)
+   </h2>
 </header>
 <script>
    add_utt_selector(utterances); 
- var CURRENT_UTT=0;
+ var curr_utt=0;
   </script>
 <label for="volume_controller">
    Default volume
   </label>
-<input id="default_vol_control" max="0.2" min="0" step="0.002" type="range" value="0.02"/>
+<input id="default_vol_control" max="1.0" min="0" step="0.002" type="range" value="0.2"/>
 <script>
    add_default_vol_listner();
   </script>
@@ -52,7 +55,7 @@
 </tr>
 <tr>
 <td>
-<audio controls="" id="vits_p231_sample_0" src="wav/vits-p231_0_sample_0.wav" volume=0.1>
+<audio controls="" id="vits_p231_sample_0" src="wav/vits-p231_0_sample_0.wav" volume="0.2">
 </audio>
 <audio controls="" id="vits_p231_sample_1" src="wav/vits-p231_0_sample_1.wav" volume="0.2">
 </audio>
