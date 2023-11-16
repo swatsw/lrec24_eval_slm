@@ -34,7 +34,7 @@ source "https://rubygems.org"
 # gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "github-pages", "~> 228", group: :jekyll_plugins
-# gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8"
 
 # gem "jekyll", "~> 4.3"
 
