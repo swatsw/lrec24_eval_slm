@@ -2,6 +2,7 @@ var vits_speakers = ['p231','p241','p265','p272','p281','p286','p293','p301','p3
 var bark_speakers = ['0','1','2','3','4','5','6','7','8','9',];
 var models = ['vits','bark-base','bark-small',];
 var utterances = ['0','1','2','3','4','5','6','7','8','9',];
+var utterance_corpus = ['libritts','libritts','libritts','dailydialog','dailydialog','dailydialog','dailydialog','dailydialog','dailydialog','dailydialog',];
 var text_prompts = ['He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.',
 '"Has she any brains?" asked Ojo.',
 'He would say good night, but not good bye.',

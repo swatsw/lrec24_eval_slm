@@ -20,7 +20,7 @@
    </h2>
 </header>
 <script>
-   add_utt_selector(utterances); 
+   add_utt_selector(utterances, utterance_corpus); 
  var curr_utt=0;
   </script>
 <label for="volume_controller">
@@ -29,6 +29,11 @@
 <input id="default_vol_control" max="0.2" min="0" step="0.002" type="range" value="0.02"/>
 <script>
    add_default_vol_listner();
+  </script>
+<div class="center_element" id="text_prompt" style="border:true; border-color: blue; border-style: solid">
+</div>
+<script>
+   init_text_prompt(text_prompts);
   </script>
 <table class="table table-striped table-bordered table-hover" id="wav_table">
 <tr>

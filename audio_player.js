@@ -15,12 +15,12 @@ function add_default_vol_listner(){
     })
 }
 
-function add_utt_selector(utterances){
+function add_utt_selector(utterances, utterance_corpus){
     selector_html = ""
     selector_html += 'sample list (click to select) >> </br>'
     selector_html += '<select id="utt_list" name="utt_list" size='+ (1)+ '>'
     for (var i =0; i < utterances.length; i++) {
-        selector_html += '<option value="l'+ utterances[i]+'i'+i+'">input'+i+'</option>'
+        selector_html += '<option value="l'+ utterances[i]+'i'+i+'">input'+i+': '+utterance_corpus[i]+'</option>'
     }
     selector_html += "</select> </br>"
     document.body.insertAdjacentHTML('beforeend', selector_html)
@@ -63,6 +63,9 @@ function audio_player(vits_speakers, bark_speakers, models, utterances, text_pro
                 audio_element.volume = get_default_vol()
             }
         }
+
+        var text_prompt = document.getElementById("text_prompt")
+        text_prompt.innerText = "TTS: " + text_prompts[input_i]
     })
 
     // set default volume
@@ -78,15 +81,20 @@ function audio_player(vits_speakers, bark_speakers, models, utterances, text_pro
             }
         }
 
-        // update bark-small speakers
-        for (var i=0;i < bark_speakers.length; i++) {
-            speaker = bark_speakers[i]
-            // audio["src"] = f"wav/{model}-{speaker}_{START_UTT}_sample_{sample_i}.wav"
-            // audio["id"] = f"{model}_{speaker}_sample_{sample_i}"
-            for (var sample_i=0; sample_i < SAMPLES_PER_UTT; sample_i++) {
-                audio_element_name = 'bark-small_' + speaker + '_sample_' + sample_i
-                audio_element = document.getElementById(audio_element_name)
-                audio_element.volume = get_default_vol()
-            }
+    // update bark-small speakers
+    for (var i=0;i < bark_speakers.length; i++) {
+        speaker = bark_speakers[i]
+        // audio["src"] = f"wav/{model}-{speaker}_{START_UTT}_sample_{sample_i}.wav"
+        // audio["id"] = f"{model}_{speaker}_sample_{sample_i}"
+        for (var sample_i=0; sample_i < SAMPLES_PER_UTT; sample_i++) {
+            audio_element_name = 'bark-small_' + speaker + '_sample_' + sample_i
+            audio_element = document.getElementById(audio_element_name)
+            audio_element.volume = get_default_vol()
         }
+    }
+}
+
+function init_text_prompt(text_prompts){
+    var text_prompt = document.getElementById("text_prompt")
+    text_prompt.innerText = "TTS: " + text_prompts[0]
 }
