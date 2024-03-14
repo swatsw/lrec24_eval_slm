@@ -22,9 +22,25 @@ table {
   }
 
 .center_element {
-    max-width: 95%; /* this is mainly an IE 10-11 fix */
+    max-width: 100%; /* this is mainly an IE 10-11 fix */
     text-align: left;
     margin: auto; /* this is for overflowing content */
     float: inherit;
     width: 30%;
+}
+
+.textbox_element {
+    max-width: 90%; /* this is mainly an IE 10-11 fix */
+    text-align: left;
+    margin: auto; /* this is for overflowing content */
+    float: inherit;
+    width: 100%;
+}
+
+.table_element {
+    max-width: 85%; /* this is mainly an IE 10-11 fix */
+    text-align: left;
+    margin: auto; /* this is for overflowing content */
+    float: inherit;
+    width: 100%;
 }

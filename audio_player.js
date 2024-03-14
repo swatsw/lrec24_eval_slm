@@ -15,86 +15,70 @@ function add_default_vol_listner(){
     })
 }
 
-function add_utt_selector(utterances, utterance_corpus){
+function add_utt_selector(utterances, utterance_corpus, section_id){
     selector_html = ""
+    selector_html += '<div class=textbox_element id="utt_selector_div">'
     selector_html += 'sample list (click to select) >> </br>'
-    selector_html += '<select id="utt_list" name="utt_list" size='+ (1)+ '>'
+    selector_html += '<select id="utt_list_'+section_id+'" name="utt_list" size='+ (1)+ '>'
     for (var i =0; i < utterances.length; i++) {
         selector_html += '<option value="l'+ utterances[i]+'i'+i+'">input'+i+': '+utterance_corpus[i]+'</option>'
     }
     selector_html += "</select> </br>"
+    selector_html += "</div>"
     document.body.insertAdjacentHTML('beforeend', selector_html)
 }
 
 var SAMPLES_PER_UTT = 3
-function audio_player(vits_speakers, bark_speakers, models, utterances, text_prompts) {
+function audio_player(speakers, text_prompts, section_id) {
     // audio selector logic
-    var selector = document.getElementById("utt_list")
+    var selector = document.getElementById("utt_list_"+section_id)
     selector.addEventListener('input', function(){
         selected = this.value
         l = selected.indexOf('i')
         // slice until the end of the string to get the input index
         input_i = parseInt(selected.slice(l+1))
     
-        // update vits speakers
-        for (var i=0;i < vits_speakers.length; i++) {
-            speaker = vits_speakers[i]
-            // audio["src"] = f"wav/{model}-{speaker}_{START_UTT}_sample_{sample_i}.wav"
-            // audio["id"] = f"{model}_{speaker}_sample_{sample_i}"
+        // update speakers
+        for (var i=0;i < speakers.length; i++) {
+            speaker = speakers[i]
             for (var sample_i=0; sample_i < SAMPLES_PER_UTT; sample_i++) {
-                audio_element_name = 'vits_' + speaker + '_sample_' + sample_i
+                audio_element_name = section_id + '-' + speaker + '_sample_' + sample_i
                 audio_element = document.getElementById(audio_element_name)
-                audio_path = 'wav/' + 'vits' + '-' + speaker + '_' + (input_i) + '_sample_' + sample_i + '.wav' 
+                audio_path = 'wav/' + section_id + '-' + speaker + '_' + (input_i) + '_sample_' + sample_i + '.wav' 
                 audio_element.src = audio_path
                 audio_element.volume = get_default_vol()
             }
         }
 
-        // update bark-small speakers
-        for (var i=0;i < bark_speakers.length; i++) {
-            speaker = bark_speakers[i]
-            // audio["src"] = f"wav/{model}-{speaker}_{START_UTT}_sample_{sample_i}.wav"
-            // audio["id"] = f"{model}_{speaker}_sample_{sample_i}"
-            for (var sample_i=0; sample_i < SAMPLES_PER_UTT; sample_i++) {
-                audio_element_name = 'bark-small_' + speaker + '_sample_' + sample_i
-                audio_element = document.getElementById(audio_element_name)
-                audio_path = 'wav/' + 'bark-small' + '-' + speaker + '_' + (input_i) + '_sample_' + sample_i + '.wav' 
-                audio_element.src = audio_path
-                audio_element.volume = get_default_vol()
-            }
-        }
-
-        var text_prompt = document.getElementById("text_prompt")
+        var text_prompt = document.getElementById("text_prompt_"+section_id)
         text_prompt.innerText = "TTS: " + text_prompts[input_i]
     })
 
     // set default volume
-    // update vits speakers
-    for (var i=0;i < vits_speakers.length; i++) {
-            speaker = vits_speakers[i]
-            // audio["src"] = f"wav/{model}-{speaker}_{START_UTT}_sample_{sample_i}.wav"
-            // audio["id"] = f"{model}_{speaker}_sample_{sample_i}"
-            for (var sample_i=0; sample_i < SAMPLES_PER_UTT; sample_i++) {
-                audio_element_name = 'vits_' + speaker + '_sample_' + sample_i
-                audio_element = document.getElementById(audio_element_name)
-                audio_element.volume = get_default_vol()
-            }
-        }
-
-    // update bark-small speakers
-    for (var i=0;i < bark_speakers.length; i++) {
-        speaker = bark_speakers[i]
-        // audio["src"] = f"wav/{model}-{speaker}_{START_UTT}_sample_{sample_i}.wav"
-        // audio["id"] = f"{model}_{speaker}_sample_{sample_i}"
+    for (var i=0;i < speakers.length; i++) {
+        speaker = speakers[i]
         for (var sample_i=0; sample_i < SAMPLES_PER_UTT; sample_i++) {
-            audio_element_name = 'bark-small_' + speaker + '_sample_' + sample_i
+            audio_element_name = section_id + '-' + speaker + '_sample_' + sample_i
             audio_element = document.getElementById(audio_element_name)
             audio_element.volume = get_default_vol()
         }
     }
 }
 
-function init_text_prompt(text_prompts){
-    var text_prompt = document.getElementById("text_prompt")
+function init_text_prompt(text_prompts, text_prompt_id){
+    var text_prompt = document.getElementById(text_prompt_id)
     text_prompt.innerText = "TTS: " + text_prompts[0]
+}
+
+function add_context_utt_selector(num_utts) {
+    selector_html = ""
+    selector_html += '<div class=textbox_element id="utt_selector_div">'
+    selector_html += 'sample list (click to select) >> </br>'
+    selector_html += '<select id="context-utt_list" name="context-utt_list" size='+ (1)+ '>'
+    for (var i =0; i < num_utts; i++) {
+        selector_html += '<option value="context-'+i+'">input'+i+': dailydialog </option>'
+    }
+    selector_html += "</select> </br>"
+    selector_html += "</div>"
+    document.body.insertAdjacentHTML('beforeend', selector_html)
 }

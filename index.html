@@ -19,562 +19,668 @@
     (In submission LREC 2024)
    </h2>
 </header>
+<div class="textbox_element" id="sec1_div">
+<h3>
+    1. Synthesized samples in objective evaluations
+   </h3>
 <script>
-   add_utt_selector(utterances, utterance_corpus); 
+    add_utt_selector(utterances, utterance_corpus); 
  var curr_utt=0;
-  </script>
+   </script>
 <label for="volume_controller">
-   Default volume
-  </label>
+    Default volume
+   </label>
 <input id="default_vol_control" max="0.2" min="0" step="0.002" type="range" value="0.02"/>
 <script>
-   add_default_vol_listner();
-  </script>
-<div class="center_element" id="text_prompt" style="border:true; border-color: blue; border-style: solid">
+    add_default_vol_listner();
+   </script>
+</div>
+<div class="center_element" id="text_prompt_1" style="border:true; border-color: blue; border-style: solid">
 </div>
 <script>
-   init_text_prompt(text_prompts);
+   init_text_prompt(text_prompts, "text_prompt_1");
   </script>
+<div class="table_element" id="table1_div">
 <table class="table table-striped table-bordered table-hover" id="wav_table">
 <tr>
 <td>
-     VITS speaker p231
-    </td>
+      VITS speaker p231
+     </td>
 <td>
-     VITS speaker p241
-    </td>
+      VITS speaker p241
+     </td>
 <td>
-     VITS speaker p265
-    </td>
+      VITS speaker p265
+     </td>
 <td>
-     VITS speaker p272
-    </td>
+      VITS speaker p272
+     </td>
 <td>
-     VITS speaker p281
-    </td>
+      VITS speaker p281
+     </td>
 </tr>
 <tr>
 <td>
-     sample 0
-     <audio controls="" id="vits_p231_sample_0" src="wav/vits-p231_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p231_sample_0" src="wav/vits-p231_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="vits_p231_sample_1" src="wav/vits-p231_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p231_sample_1" src="wav/vits-p231_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="vits_p231_sample_2" src="wav/vits-p231_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="vits_p241_sample_0" src="wav/vits-p241_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="vits_p241_sample_1" src="wav/vits-p241_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="vits_p241_sample_2" src="wav/vits-p241_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p231_sample_2" src="wav/vits-p231_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="vits_p265_sample_0" src="wav/vits-p265_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p241_sample_0" src="wav/vits-p241_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="vits_p265_sample_1" src="wav/vits-p265_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p241_sample_1" src="wav/vits-p241_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="vits_p265_sample_2" src="wav/vits-p265_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="vits_p272_sample_0" src="wav/vits-p272_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="vits_p272_sample_1" src="wav/vits-p272_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="vits_p272_sample_2" src="wav/vits-p272_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p241_sample_2" src="wav/vits-p241_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="vits_p281_sample_0" src="wav/vits-p281_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p265_sample_0" src="wav/vits-p265_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="vits_p281_sample_1" src="wav/vits-p281_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p265_sample_1" src="wav/vits-p265_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="vits_p281_sample_2" src="wav/vits-p281_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-     VITS speaker p286
-    </td>
-<td>
-     VITS speaker p293
-    </td>
-<td>
-     VITS speaker p301
-    </td>
-<td>
-     VITS speaker p333
-    </td>
-<td>
-     VITS speaker p376
-    </td>
-</tr>
-<tr>
-<td>
-     sample 0
-     <audio controls="" id="vits_p286_sample_0" src="wav/vits-p286_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="vits_p286_sample_1" src="wav/vits-p286_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="vits_p286_sample_2" src="wav/vits-p286_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p265_sample_2" src="wav/vits-p265_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="vits_p293_sample_0" src="wav/vits-p293_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p272_sample_0" src="wav/vits-p272_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="vits_p293_sample_1" src="wav/vits-p293_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p272_sample_1" src="wav/vits-p272_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="vits_p293_sample_2" src="wav/vits-p293_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="vits_p301_sample_0" src="wav/vits-p301_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="vits_p301_sample_1" src="wav/vits-p301_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="vits_p301_sample_2" src="wav/vits-p301_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p272_sample_2" src="wav/vits-p272_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="vits_p333_sample_0" src="wav/vits-p333_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p281_sample_0" src="wav/vits-p281_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="vits_p333_sample_1" src="wav/vits-p333_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p281_sample_1" src="wav/vits-p281_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="vits_p333_sample_2" src="wav/vits-p333_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="vits_p376_sample_0" src="wav/vits-p376_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="vits_p376_sample_1" src="wav/vits-p376_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="vits_p376_sample_2" src="wav/vits-p376_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p281_sample_2" src="wav/vits-p281_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
-     Bark-base speaker 0
-    </td>
+      VITS speaker p286
+     </td>
 <td>
-     Bark-base speaker 1
-    </td>
+      VITS speaker p293
+     </td>
 <td>
-     Bark-base speaker 2
-    </td>
+      VITS speaker p301
+     </td>
 <td>
-     Bark-base speaker 3
-    </td>
+      VITS speaker p333
+     </td>
 <td>
-     Bark-base speaker 4
-    </td>
+      VITS speaker p376
+     </td>
 </tr>
 <tr>
 <td>
-     sample 0
-     <audio controls="" id="bark-base_0_sample_0" src="wav/bark-base-0_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p286_sample_0" src="wav/vits-p286_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-base_0_sample_1" src="wav/bark-base-0_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p286_sample_1" src="wav/vits-p286_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-base_0_sample_2" src="wav/bark-base-0_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-base_1_sample_0" src="wav/bark-base-1_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-base_1_sample_1" src="wav/bark-base-1_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-base_1_sample_2" src="wav/bark-base-1_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p286_sample_2" src="wav/vits-p286_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-base_2_sample_0" src="wav/bark-base-2_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p293_sample_0" src="wav/vits-p293_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-base_2_sample_1" src="wav/bark-base-2_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p293_sample_1" src="wav/vits-p293_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-base_2_sample_2" src="wav/bark-base-2_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-base_3_sample_0" src="wav/bark-base-3_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-base_3_sample_1" src="wav/bark-base-3_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-base_3_sample_2" src="wav/bark-base-3_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p293_sample_2" src="wav/vits-p293_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-base_4_sample_0" src="wav/bark-base-4_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p301_sample_0" src="wav/vits-p301_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-base_4_sample_1" src="wav/bark-base-4_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p301_sample_1" src="wav/vits-p301_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-base_4_sample_2" src="wav/bark-base-4_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-     Bark-base speaker 5
-    </td>
-<td>
-     Bark-base speaker 6
-    </td>
-<td>
-     Bark-base speaker 7
-    </td>
-<td>
-     Bark-base speaker 8
-    </td>
-<td>
-     Bark-base speaker 9
-    </td>
-</tr>
-<tr>
-<td>
-     sample 0
-     <audio controls="" id="bark-base_5_sample_0" src="wav/bark-base-5_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-base_5_sample_1" src="wav/bark-base-5_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-base_5_sample_2" src="wav/bark-base-5_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p301_sample_2" src="wav/vits-p301_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-base_6_sample_0" src="wav/bark-base-6_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p333_sample_0" src="wav/vits-p333_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-base_6_sample_1" src="wav/bark-base-6_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p333_sample_1" src="wav/vits-p333_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-base_6_sample_2" src="wav/bark-base-6_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-base_7_sample_0" src="wav/bark-base-7_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-base_7_sample_1" src="wav/bark-base-7_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-base_7_sample_2" src="wav/bark-base-7_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p333_sample_2" src="wav/vits-p333_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-base_8_sample_0" src="wav/bark-base-8_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="vits_p376_sample_0" src="wav/vits-p376_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-base_8_sample_1" src="wav/bark-base-8_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="vits_p376_sample_1" src="wav/vits-p376_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-base_8_sample_2" src="wav/bark-base-8_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-base_9_sample_0" src="wav/bark-base-9_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-base_9_sample_1" src="wav/bark-base-9_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-base_9_sample_2" src="wav/bark-base-9_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="vits_p376_sample_2" src="wav/vits-p376_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
-     Bark-small speaker 0
-    </td>
+      Bark-base speaker 0
+     </td>
 <td>
-     Bark-small speaker 1
-    </td>
+      Bark-base speaker 1
+     </td>
 <td>
-     Bark-small speaker 2
-    </td>
+      Bark-base speaker 2
+     </td>
 <td>
-     Bark-small speaker 3
-    </td>
+      Bark-base speaker 3
+     </td>
 <td>
-     Bark-small speaker 4
-    </td>
+      Bark-base speaker 4
+     </td>
 </tr>
 <tr>
 <td>
-     sample 0
-     <audio controls="" id="bark-small_0_sample_0" src="wav/bark-small-0_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="bark-base_0_sample_0" src="wav/bark-base-0_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-small_0_sample_1" src="wav/bark-small-0_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="bark-base_0_sample_1" src="wav/bark-base-0_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-small_0_sample_2" src="wav/bark-small-0_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-small_1_sample_0" src="wav/bark-small-1_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-small_1_sample_1" src="wav/bark-small-1_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-small_1_sample_2" src="wav/bark-small-1_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="bark-base_0_sample_2" src="wav/bark-base-0_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-small_2_sample_0" src="wav/bark-small-2_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="bark-base_1_sample_0" src="wav/bark-base-1_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-small_2_sample_1" src="wav/bark-small-2_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="bark-base_1_sample_1" src="wav/bark-base-1_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-small_2_sample_2" src="wav/bark-small-2_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-small_3_sample_0" src="wav/bark-small-3_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-small_3_sample_1" src="wav/bark-small-3_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-small_3_sample_2" src="wav/bark-small-3_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="bark-base_1_sample_2" src="wav/bark-base-1_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-small_4_sample_0" src="wav/bark-small-4_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="bark-base_2_sample_0" src="wav/bark-base-2_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-small_4_sample_1" src="wav/bark-small-4_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="bark-base_2_sample_1" src="wav/bark-base-2_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-small_4_sample_2" src="wav/bark-small-4_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="bark-base_2_sample_2" src="wav/bark-base-2_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_3_sample_0" src="wav/bark-base-3_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_3_sample_1" src="wav/bark-base-3_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_3_sample_2" src="wav/bark-base-3_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_4_sample_0" src="wav/bark-base-4_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_4_sample_1" src="wav/bark-base-4_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_4_sample_2" src="wav/bark-base-4_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
-     Bark-small speaker 5
-    </td>
+      Bark-base speaker 5
+     </td>
 <td>
-     Bark-small speaker 6
-    </td>
+      Bark-base speaker 6
+     </td>
 <td>
-     Bark-small speaker 7
-    </td>
+      Bark-base speaker 7
+     </td>
 <td>
-     Bark-small speaker 8
-    </td>
+      Bark-base speaker 8
+     </td>
 <td>
-     Bark-small speaker 9
-    </td>
+      Bark-base speaker 9
+     </td>
 </tr>
 <tr>
 <td>
-     sample 0
-     <audio controls="" id="bark-small_5_sample_0" src="wav/bark-small-5_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="bark-base_5_sample_0" src="wav/bark-base-5_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-small_5_sample_1" src="wav/bark-small-5_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="bark-base_5_sample_1" src="wav/bark-base-5_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-small_5_sample_2" src="wav/bark-small-5_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-small_6_sample_0" src="wav/bark-small-6_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-small_6_sample_1" src="wav/bark-small-6_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-small_6_sample_2" src="wav/bark-small-6_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="bark-base_5_sample_2" src="wav/bark-base-5_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-small_7_sample_0" src="wav/bark-small-7_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="bark-base_6_sample_0" src="wav/bark-base-6_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-small_7_sample_1" src="wav/bark-small-7_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="bark-base_6_sample_1" src="wav/bark-base-6_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-small_7_sample_2" src="wav/bark-small-7_0_sample_2.wav" volume="0.2">
-</audio>
-<br/>
-</td>
-<td>
-     sample 0
-     <audio controls="" id="bark-small_8_sample_0" src="wav/bark-small-8_0_sample_0.wav" volume="0.2">
-</audio>
-<br/>
-     sample 1
-     <audio controls="" id="bark-small_8_sample_1" src="wav/bark-small-8_0_sample_1.wav" volume="0.2">
-</audio>
-<br/>
-     sample 2
-     <audio controls="" id="bark-small_8_sample_2" src="wav/bark-small-8_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="bark-base_6_sample_2" src="wav/bark-base-6_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 <td>
-     sample 0
-     <audio controls="" id="bark-small_9_sample_0" src="wav/bark-small-9_0_sample_0.wav" volume="0.2">
+      sample 0
+      <audio controls="" id="bark-base_7_sample_0" src="wav/bark-base-7_0_sample_0.wav" volume="0.2">
 </audio>
 <br/>
-     sample 1
-     <audio controls="" id="bark-small_9_sample_1" src="wav/bark-small-9_0_sample_1.wav" volume="0.2">
+      sample 1
+      <audio controls="" id="bark-base_7_sample_1" src="wav/bark-base-7_0_sample_1.wav" volume="0.2">
 </audio>
 <br/>
-     sample 2
-     <audio controls="" id="bark-small_9_sample_2" src="wav/bark-small-9_0_sample_2.wav" volume="0.2">
+      sample 2
+      <audio controls="" id="bark-base_7_sample_2" src="wav/bark-base-7_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_8_sample_0" src="wav/bark-base-8_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_8_sample_1" src="wav/bark-base-8_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_8_sample_2" src="wav/bark-base-8_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_9_sample_0" src="wav/bark-base-9_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_9_sample_1" src="wav/bark-base-9_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_9_sample_2" src="wav/bark-base-9_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+      Bark-small speaker 0
+     </td>
+<td>
+      Bark-small speaker 1
+     </td>
+<td>
+      Bark-small speaker 2
+     </td>
+<td>
+      Bark-small speaker 3
+     </td>
+<td>
+      Bark-small speaker 4
+     </td>
+</tr>
+<tr>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_0_sample_0" src="wav/bark-small-0_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_0_sample_1" src="wav/bark-small-0_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_0_sample_2" src="wav/bark-small-0_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_1_sample_0" src="wav/bark-small-1_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_1_sample_1" src="wav/bark-small-1_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_1_sample_2" src="wav/bark-small-1_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_2_sample_0" src="wav/bark-small-2_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_2_sample_1" src="wav/bark-small-2_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_2_sample_2" src="wav/bark-small-2_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_3_sample_0" src="wav/bark-small-3_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_3_sample_1" src="wav/bark-small-3_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_3_sample_2" src="wav/bark-small-3_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_4_sample_0" src="wav/bark-small-4_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_4_sample_1" src="wav/bark-small-4_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_4_sample_2" src="wav/bark-small-4_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+      Bark-small speaker 5
+     </td>
+<td>
+      Bark-small speaker 6
+     </td>
+<td>
+      Bark-small speaker 7
+     </td>
+<td>
+      Bark-small speaker 8
+     </td>
+<td>
+      Bark-small speaker 9
+     </td>
+</tr>
+<tr>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_5_sample_0" src="wav/bark-small-5_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_5_sample_1" src="wav/bark-small-5_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_5_sample_2" src="wav/bark-small-5_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_6_sample_0" src="wav/bark-small-6_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_6_sample_1" src="wav/bark-small-6_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_6_sample_2" src="wav/bark-small-6_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_7_sample_0" src="wav/bark-small-7_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_7_sample_1" src="wav/bark-small-7_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_7_sample_2" src="wav/bark-small-7_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_8_sample_0" src="wav/bark-small-8_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_8_sample_1" src="wav/bark-small-8_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_8_sample_2" src="wav/bark-small-8_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-small_9_sample_0" src="wav/bark-small-9_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-small_9_sample_1" src="wav/bark-small-9_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-small_9_sample_2" src="wav/bark-small-9_0_sample_2.wav" volume="0.2">
 </audio>
 <br/>
 </td>
 </tr>
 </table>
-<script src="audio_player.js">
+</div>
+<script>
+   audio_player(vits_speakers, bark_speakers, models, utterances, text_prompts, "text_prompt_1");
+  </script>
+<div class="textbox_element" id="sec2_div">
+<h3>
+    2. Synthesized samples in listening tests
+   </h3>
+<script src="wav/wavs.js">
+</script>
+<script src="wav/texts.js">
 </script>
 <script>
-   audio_player(vits_speakers, bark_speakers, models, utterances, text_prompts);
+    add_context_utt_selector(context_wavs.length); 
+ var curr_context_utt=0;
+   </script>
+<label for="context_volume_controller">
+    Default volume
+   </label>
+<input id="default_context_vol_control" max="0.2" min="0" step="0.002" type="range" value="0.02"/>
+<script>
+    add_default_vol_listner();
+   </script>
+</div>
+<div class="center_element" id="text_prompt_2" style="border:true; border-color: blue; border-style: solid">
+</div>
+<script>
+   init_text_prompt(text_prompts, "text_prompt_2");
   </script>
+<div class="table_element" id="table2_div">
+<table class="table table-striped table-bordered table-hover" id="context_wav_table">
+<tr>
+<td>
+      VITS speaker p247
+     </td>
+<td>
+      Bark-base speaker 6
+     </td>
+<td>
+      Bark-base speaker 9
+     </td>
+<td>
+      Bark-base w/context speaker 6
+     </td>
+</tr>
+<tr>
+<td>
+      sample 0
+      <audio controls="" id="vits_p247_sample_0" src="wav/vits_p247_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="vits_p247_sample_1" src="wav/vits_p247_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="vits_p247_sample_2" src="wav/vits_p247_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_speaker_6_sample_0" src="wav/bark-base_speaker_6_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_speaker_6_sample_1" src="wav/bark-base_speaker_6_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_speaker_6_sample_2" src="wav/bark-base_speaker_6_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_speaker_9_sample_0" src="wav/bark-base_speaker_9_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_speaker_9_sample_1" src="wav/bark-base_speaker_9_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_speaker_9_sample_2" src="wav/bark-base_speaker_9_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+<td>
+      sample 0
+      <audio controls="" id="bark-base_context_speaker_6_sample_0" src="wav/bark-base_context_speaker_6_0_sample_0.wav" volume="0.2">
+</audio>
+<br/>
+      sample 1
+      <audio controls="" id="bark-base_context_speaker_6_sample_1" src="wav/bark-base_context_speaker_6_0_sample_1.wav" volume="0.2">
+</audio>
+<br/>
+      sample 2
+      <audio controls="" id="bark-base_context_speaker_6_sample_2" src="wav/bark-base_context_speaker_6_0_sample_2.wav" volume="0.2">
+</audio>
+<br/>
+</td>
+</tr>
+</table>
+</div>
 </body>
 </html>
