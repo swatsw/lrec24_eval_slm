@@ -1,0 +1,901 @@
+wav,sample_id,model,speaker,model-speaker,text_prompt_id,text_prompt,zero_based_text_prompt_id,corpus
+vits-p272_0_sample_0.wav,0,vits,p272,vits-p272,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p272_0_sample_1.wav,1,vits,p272,vits-p272,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p272_0_sample_2.wav,2,vits,p272,vits-p272,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p272_1_sample_0.wav,0,vits,p272,vits-p272,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p272_1_sample_1.wav,1,vits,p272,vits-p272,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p272_1_sample_2.wav,2,vits,p272,vits-p272,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p272_2_sample_0.wav,0,vits,p272,vits-p272,329,"He would say good night, but not good bye.",2,libritts
+vits-p272_2_sample_1.wav,1,vits,p272,vits-p272,329,"He would say good night, but not good bye.",2,libritts
+vits-p272_2_sample_2.wav,2,vits,p272,vits-p272,329,"He would say good night, but not good bye.",2,libritts
+vits-p272_3_sample_0.wav,0,vits,p272,vits-p272,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p272_3_sample_1.wav,1,vits,p272,vits-p272,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p272_3_sample_2.wav,2,vits,p272,vits-p272,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p272_4_sample_0.wav,0,vits,p272,vits-p272,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p272_4_sample_1.wav,1,vits,p272,vits-p272,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p272_4_sample_2.wav,2,vits,p272,vits-p272,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p272_5_sample_0.wav,0,vits,p272,vits-p272,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p272_5_sample_1.wav,1,vits,p272,vits-p272,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p272_5_sample_2.wav,2,vits,p272,vits-p272,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p272_6_sample_0.wav,0,vits,p272,vits-p272,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p272_6_sample_1.wav,1,vits,p272,vits-p272,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p272_6_sample_2.wav,2,vits,p272,vits-p272,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p272_7_sample_0.wav,0,vits,p272,vits-p272,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p272_7_sample_1.wav,1,vits,p272,vits-p272,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p272_7_sample_2.wav,2,vits,p272,vits-p272,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p272_8_sample_0.wav,0,vits,p272,vits-p272,1319,To encourage the staff increases.,8,dailydialog
+vits-p272_8_sample_1.wav,1,vits,p272,vits-p272,1319,To encourage the staff increases.,8,dailydialog
+vits-p272_8_sample_2.wav,2,vits,p272,vits-p272,1319,To encourage the staff increases.,8,dailydialog
+vits-p272_9_sample_0.wav,0,vits,p272,vits-p272,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p272_9_sample_1.wav,1,vits,p272,vits-p272,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p272_9_sample_2.wav,2,vits,p272,vits-p272,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p286_0_sample_0.wav,0,vits,p286,vits-p286,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p286_0_sample_1.wav,1,vits,p286,vits-p286,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p286_0_sample_2.wav,2,vits,p286,vits-p286,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p286_1_sample_0.wav,0,vits,p286,vits-p286,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p286_1_sample_1.wav,1,vits,p286,vits-p286,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p286_1_sample_2.wav,2,vits,p286,vits-p286,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p286_2_sample_0.wav,0,vits,p286,vits-p286,329,"He would say good night, but not good bye.",2,libritts
+vits-p286_2_sample_1.wav,1,vits,p286,vits-p286,329,"He would say good night, but not good bye.",2,libritts
+vits-p286_2_sample_2.wav,2,vits,p286,vits-p286,329,"He would say good night, but not good bye.",2,libritts
+vits-p286_3_sample_0.wav,0,vits,p286,vits-p286,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p286_3_sample_1.wav,1,vits,p286,vits-p286,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p286_3_sample_2.wav,2,vits,p286,vits-p286,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p286_4_sample_0.wav,0,vits,p286,vits-p286,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p286_4_sample_1.wav,1,vits,p286,vits-p286,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p286_4_sample_2.wav,2,vits,p286,vits-p286,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p286_5_sample_0.wav,0,vits,p286,vits-p286,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p286_5_sample_1.wav,1,vits,p286,vits-p286,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p286_5_sample_2.wav,2,vits,p286,vits-p286,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p286_6_sample_0.wav,0,vits,p286,vits-p286,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p286_6_sample_1.wav,1,vits,p286,vits-p286,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p286_6_sample_2.wav,2,vits,p286,vits-p286,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p286_7_sample_0.wav,0,vits,p286,vits-p286,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p286_7_sample_1.wav,1,vits,p286,vits-p286,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p286_7_sample_2.wav,2,vits,p286,vits-p286,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p286_8_sample_0.wav,0,vits,p286,vits-p286,1319,To encourage the staff increases.,8,dailydialog
+vits-p286_8_sample_1.wav,1,vits,p286,vits-p286,1319,To encourage the staff increases.,8,dailydialog
+vits-p286_8_sample_2.wav,2,vits,p286,vits-p286,1319,To encourage the staff increases.,8,dailydialog
+vits-p286_9_sample_0.wav,0,vits,p286,vits-p286,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p286_9_sample_1.wav,1,vits,p286,vits-p286,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p286_9_sample_2.wav,2,vits,p286,vits-p286,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p241_0_sample_0.wav,0,vits,p241,vits-p241,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p241_0_sample_1.wav,1,vits,p241,vits-p241,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p241_0_sample_2.wav,2,vits,p241,vits-p241,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p241_1_sample_0.wav,0,vits,p241,vits-p241,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p241_1_sample_1.wav,1,vits,p241,vits-p241,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p241_1_sample_2.wav,2,vits,p241,vits-p241,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p241_2_sample_0.wav,0,vits,p241,vits-p241,329,"He would say good night, but not good bye.",2,libritts
+vits-p241_2_sample_1.wav,1,vits,p241,vits-p241,329,"He would say good night, but not good bye.",2,libritts
+vits-p241_2_sample_2.wav,2,vits,p241,vits-p241,329,"He would say good night, but not good bye.",2,libritts
+vits-p241_3_sample_0.wav,0,vits,p241,vits-p241,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p241_3_sample_1.wav,1,vits,p241,vits-p241,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p241_3_sample_2.wav,2,vits,p241,vits-p241,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p241_4_sample_0.wav,0,vits,p241,vits-p241,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p241_4_sample_1.wav,1,vits,p241,vits-p241,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p241_4_sample_2.wav,2,vits,p241,vits-p241,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p241_5_sample_0.wav,0,vits,p241,vits-p241,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p241_5_sample_1.wav,1,vits,p241,vits-p241,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p241_5_sample_2.wav,2,vits,p241,vits-p241,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p241_6_sample_0.wav,0,vits,p241,vits-p241,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p241_6_sample_1.wav,1,vits,p241,vits-p241,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p241_6_sample_2.wav,2,vits,p241,vits-p241,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p241_7_sample_0.wav,0,vits,p241,vits-p241,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p241_7_sample_1.wav,1,vits,p241,vits-p241,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p241_7_sample_2.wav,2,vits,p241,vits-p241,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p241_8_sample_0.wav,0,vits,p241,vits-p241,1319,To encourage the staff increases.,8,dailydialog
+vits-p241_8_sample_1.wav,1,vits,p241,vits-p241,1319,To encourage the staff increases.,8,dailydialog
+vits-p241_8_sample_2.wav,2,vits,p241,vits-p241,1319,To encourage the staff increases.,8,dailydialog
+vits-p241_9_sample_0.wav,0,vits,p241,vits-p241,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p241_9_sample_1.wav,1,vits,p241,vits-p241,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p241_9_sample_2.wav,2,vits,p241,vits-p241,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p376_0_sample_0.wav,0,vits,p376,vits-p376,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p376_0_sample_1.wav,1,vits,p376,vits-p376,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p376_0_sample_2.wav,2,vits,p376,vits-p376,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p376_1_sample_0.wav,0,vits,p376,vits-p376,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p376_1_sample_1.wav,1,vits,p376,vits-p376,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p376_1_sample_2.wav,2,vits,p376,vits-p376,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p376_2_sample_0.wav,0,vits,p376,vits-p376,329,"He would say good night, but not good bye.",2,libritts
+vits-p376_2_sample_1.wav,1,vits,p376,vits-p376,329,"He would say good night, but not good bye.",2,libritts
+vits-p376_2_sample_2.wav,2,vits,p376,vits-p376,329,"He would say good night, but not good bye.",2,libritts
+vits-p376_3_sample_0.wav,0,vits,p376,vits-p376,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p376_3_sample_1.wav,1,vits,p376,vits-p376,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p376_3_sample_2.wav,2,vits,p376,vits-p376,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p376_4_sample_0.wav,0,vits,p376,vits-p376,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p376_4_sample_1.wav,1,vits,p376,vits-p376,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p376_4_sample_2.wav,2,vits,p376,vits-p376,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p376_5_sample_0.wav,0,vits,p376,vits-p376,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p376_5_sample_1.wav,1,vits,p376,vits-p376,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p376_5_sample_2.wav,2,vits,p376,vits-p376,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p376_6_sample_0.wav,0,vits,p376,vits-p376,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p376_6_sample_1.wav,1,vits,p376,vits-p376,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p376_6_sample_2.wav,2,vits,p376,vits-p376,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p376_7_sample_0.wav,0,vits,p376,vits-p376,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p376_7_sample_1.wav,1,vits,p376,vits-p376,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p376_7_sample_2.wav,2,vits,p376,vits-p376,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p376_8_sample_0.wav,0,vits,p376,vits-p376,1319,To encourage the staff increases.,8,dailydialog
+vits-p376_8_sample_1.wav,1,vits,p376,vits-p376,1319,To encourage the staff increases.,8,dailydialog
+vits-p376_8_sample_2.wav,2,vits,p376,vits-p376,1319,To encourage the staff increases.,8,dailydialog
+vits-p376_9_sample_0.wav,0,vits,p376,vits-p376,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p376_9_sample_1.wav,1,vits,p376,vits-p376,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p376_9_sample_2.wav,2,vits,p376,vits-p376,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p301_0_sample_0.wav,0,vits,p301,vits-p301,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p301_0_sample_1.wav,1,vits,p301,vits-p301,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p301_0_sample_2.wav,2,vits,p301,vits-p301,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p301_1_sample_0.wav,0,vits,p301,vits-p301,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p301_1_sample_1.wav,1,vits,p301,vits-p301,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p301_1_sample_2.wav,2,vits,p301,vits-p301,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p301_2_sample_0.wav,0,vits,p301,vits-p301,329,"He would say good night, but not good bye.",2,libritts
+vits-p301_2_sample_1.wav,1,vits,p301,vits-p301,329,"He would say good night, but not good bye.",2,libritts
+vits-p301_2_sample_2.wav,2,vits,p301,vits-p301,329,"He would say good night, but not good bye.",2,libritts
+vits-p301_3_sample_0.wav,0,vits,p301,vits-p301,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p301_3_sample_1.wav,1,vits,p301,vits-p301,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p301_3_sample_2.wav,2,vits,p301,vits-p301,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p301_4_sample_0.wav,0,vits,p301,vits-p301,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p301_4_sample_1.wav,1,vits,p301,vits-p301,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p301_4_sample_2.wav,2,vits,p301,vits-p301,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p301_5_sample_0.wav,0,vits,p301,vits-p301,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p301_5_sample_1.wav,1,vits,p301,vits-p301,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p301_5_sample_2.wav,2,vits,p301,vits-p301,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p301_6_sample_0.wav,0,vits,p301,vits-p301,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p301_6_sample_1.wav,1,vits,p301,vits-p301,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p301_6_sample_2.wav,2,vits,p301,vits-p301,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p301_7_sample_0.wav,0,vits,p301,vits-p301,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p301_7_sample_1.wav,1,vits,p301,vits-p301,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p301_7_sample_2.wav,2,vits,p301,vits-p301,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p301_8_sample_0.wav,0,vits,p301,vits-p301,1319,To encourage the staff increases.,8,dailydialog
+vits-p301_8_sample_1.wav,1,vits,p301,vits-p301,1319,To encourage the staff increases.,8,dailydialog
+vits-p301_8_sample_2.wav,2,vits,p301,vits-p301,1319,To encourage the staff increases.,8,dailydialog
+vits-p301_9_sample_0.wav,0,vits,p301,vits-p301,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p301_9_sample_1.wav,1,vits,p301,vits-p301,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p301_9_sample_2.wav,2,vits,p301,vits-p301,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p231_0_sample_0.wav,0,vits,p231,vits-p231,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p231_0_sample_1.wav,1,vits,p231,vits-p231,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p231_0_sample_2.wav,2,vits,p231,vits-p231,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p231_1_sample_0.wav,0,vits,p231,vits-p231,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p231_1_sample_1.wav,1,vits,p231,vits-p231,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p231_1_sample_2.wav,2,vits,p231,vits-p231,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p231_2_sample_0.wav,0,vits,p231,vits-p231,329,"He would say good night, but not good bye.",2,libritts
+vits-p231_2_sample_1.wav,1,vits,p231,vits-p231,329,"He would say good night, but not good bye.",2,libritts
+vits-p231_2_sample_2.wav,2,vits,p231,vits-p231,329,"He would say good night, but not good bye.",2,libritts
+vits-p231_3_sample_0.wav,0,vits,p231,vits-p231,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p231_3_sample_1.wav,1,vits,p231,vits-p231,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p231_3_sample_2.wav,2,vits,p231,vits-p231,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p231_4_sample_0.wav,0,vits,p231,vits-p231,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p231_4_sample_1.wav,1,vits,p231,vits-p231,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p231_4_sample_2.wav,2,vits,p231,vits-p231,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p231_5_sample_0.wav,0,vits,p231,vits-p231,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p231_5_sample_1.wav,1,vits,p231,vits-p231,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p231_5_sample_2.wav,2,vits,p231,vits-p231,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p231_6_sample_0.wav,0,vits,p231,vits-p231,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p231_6_sample_1.wav,1,vits,p231,vits-p231,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p231_6_sample_2.wav,2,vits,p231,vits-p231,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p231_7_sample_0.wav,0,vits,p231,vits-p231,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p231_7_sample_1.wav,1,vits,p231,vits-p231,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p231_7_sample_2.wav,2,vits,p231,vits-p231,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p231_8_sample_0.wav,0,vits,p231,vits-p231,1319,To encourage the staff increases.,8,dailydialog
+vits-p231_8_sample_1.wav,1,vits,p231,vits-p231,1319,To encourage the staff increases.,8,dailydialog
+vits-p231_8_sample_2.wav,2,vits,p231,vits-p231,1319,To encourage the staff increases.,8,dailydialog
+vits-p231_9_sample_0.wav,0,vits,p231,vits-p231,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p231_9_sample_1.wav,1,vits,p231,vits-p231,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p231_9_sample_2.wav,2,vits,p231,vits-p231,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p293_0_sample_0.wav,0,vits,p293,vits-p293,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p293_0_sample_1.wav,1,vits,p293,vits-p293,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p293_0_sample_2.wav,2,vits,p293,vits-p293,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p293_1_sample_0.wav,0,vits,p293,vits-p293,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p293_1_sample_1.wav,1,vits,p293,vits-p293,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p293_1_sample_2.wav,2,vits,p293,vits-p293,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p293_2_sample_0.wav,0,vits,p293,vits-p293,329,"He would say good night, but not good bye.",2,libritts
+vits-p293_2_sample_1.wav,1,vits,p293,vits-p293,329,"He would say good night, but not good bye.",2,libritts
+vits-p293_2_sample_2.wav,2,vits,p293,vits-p293,329,"He would say good night, but not good bye.",2,libritts
+vits-p293_3_sample_0.wav,0,vits,p293,vits-p293,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p293_3_sample_1.wav,1,vits,p293,vits-p293,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p293_3_sample_2.wav,2,vits,p293,vits-p293,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p293_4_sample_0.wav,0,vits,p293,vits-p293,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p293_4_sample_1.wav,1,vits,p293,vits-p293,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p293_4_sample_2.wav,2,vits,p293,vits-p293,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p293_5_sample_0.wav,0,vits,p293,vits-p293,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p293_5_sample_1.wav,1,vits,p293,vits-p293,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p293_5_sample_2.wav,2,vits,p293,vits-p293,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p293_6_sample_0.wav,0,vits,p293,vits-p293,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p293_6_sample_1.wav,1,vits,p293,vits-p293,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p293_6_sample_2.wav,2,vits,p293,vits-p293,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p293_7_sample_0.wav,0,vits,p293,vits-p293,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p293_7_sample_1.wav,1,vits,p293,vits-p293,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p293_7_sample_2.wav,2,vits,p293,vits-p293,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p293_8_sample_0.wav,0,vits,p293,vits-p293,1319,To encourage the staff increases.,8,dailydialog
+vits-p293_8_sample_1.wav,1,vits,p293,vits-p293,1319,To encourage the staff increases.,8,dailydialog
+vits-p293_8_sample_2.wav,2,vits,p293,vits-p293,1319,To encourage the staff increases.,8,dailydialog
+vits-p293_9_sample_0.wav,0,vits,p293,vits-p293,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p293_9_sample_1.wav,1,vits,p293,vits-p293,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p293_9_sample_2.wav,2,vits,p293,vits-p293,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p333_0_sample_0.wav,0,vits,p333,vits-p333,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p333_0_sample_1.wav,1,vits,p333,vits-p333,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p333_0_sample_2.wav,2,vits,p333,vits-p333,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p333_1_sample_0.wav,0,vits,p333,vits-p333,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p333_1_sample_1.wav,1,vits,p333,vits-p333,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p333_1_sample_2.wav,2,vits,p333,vits-p333,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p333_2_sample_0.wav,0,vits,p333,vits-p333,329,"He would say good night, but not good bye.",2,libritts
+vits-p333_2_sample_1.wav,1,vits,p333,vits-p333,329,"He would say good night, but not good bye.",2,libritts
+vits-p333_2_sample_2.wav,2,vits,p333,vits-p333,329,"He would say good night, but not good bye.",2,libritts
+vits-p333_3_sample_0.wav,0,vits,p333,vits-p333,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p333_3_sample_1.wav,1,vits,p333,vits-p333,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p333_3_sample_2.wav,2,vits,p333,vits-p333,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p333_4_sample_0.wav,0,vits,p333,vits-p333,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p333_4_sample_1.wav,1,vits,p333,vits-p333,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p333_4_sample_2.wav,2,vits,p333,vits-p333,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p333_5_sample_0.wav,0,vits,p333,vits-p333,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p333_5_sample_1.wav,1,vits,p333,vits-p333,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p333_5_sample_2.wav,2,vits,p333,vits-p333,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p333_6_sample_0.wav,0,vits,p333,vits-p333,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p333_6_sample_1.wav,1,vits,p333,vits-p333,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p333_6_sample_2.wav,2,vits,p333,vits-p333,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p333_7_sample_0.wav,0,vits,p333,vits-p333,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p333_7_sample_1.wav,1,vits,p333,vits-p333,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p333_7_sample_2.wav,2,vits,p333,vits-p333,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p333_8_sample_0.wav,0,vits,p333,vits-p333,1319,To encourage the staff increases.,8,dailydialog
+vits-p333_8_sample_1.wav,1,vits,p333,vits-p333,1319,To encourage the staff increases.,8,dailydialog
+vits-p333_8_sample_2.wav,2,vits,p333,vits-p333,1319,To encourage the staff increases.,8,dailydialog
+vits-p333_9_sample_0.wav,0,vits,p333,vits-p333,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p333_9_sample_1.wav,1,vits,p333,vits-p333,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p333_9_sample_2.wav,2,vits,p333,vits-p333,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p265_0_sample_0.wav,0,vits,p265,vits-p265,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p265_0_sample_1.wav,1,vits,p265,vits-p265,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p265_0_sample_2.wav,2,vits,p265,vits-p265,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p265_1_sample_0.wav,0,vits,p265,vits-p265,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p265_1_sample_1.wav,1,vits,p265,vits-p265,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p265_1_sample_2.wav,2,vits,p265,vits-p265,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p265_2_sample_0.wav,0,vits,p265,vits-p265,329,"He would say good night, but not good bye.",2,libritts
+vits-p265_2_sample_1.wav,1,vits,p265,vits-p265,329,"He would say good night, but not good bye.",2,libritts
+vits-p265_2_sample_2.wav,2,vits,p265,vits-p265,329,"He would say good night, but not good bye.",2,libritts
+vits-p265_3_sample_0.wav,0,vits,p265,vits-p265,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p265_3_sample_1.wav,1,vits,p265,vits-p265,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p265_3_sample_2.wav,2,vits,p265,vits-p265,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p265_4_sample_0.wav,0,vits,p265,vits-p265,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p265_4_sample_1.wav,1,vits,p265,vits-p265,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p265_4_sample_2.wav,2,vits,p265,vits-p265,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p265_5_sample_0.wav,0,vits,p265,vits-p265,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p265_5_sample_1.wav,1,vits,p265,vits-p265,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p265_5_sample_2.wav,2,vits,p265,vits-p265,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p265_6_sample_0.wav,0,vits,p265,vits-p265,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p265_6_sample_1.wav,1,vits,p265,vits-p265,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p265_6_sample_2.wav,2,vits,p265,vits-p265,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p265_7_sample_0.wav,0,vits,p265,vits-p265,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p265_7_sample_1.wav,1,vits,p265,vits-p265,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p265_7_sample_2.wav,2,vits,p265,vits-p265,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p265_8_sample_0.wav,0,vits,p265,vits-p265,1319,To encourage the staff increases.,8,dailydialog
+vits-p265_8_sample_1.wav,1,vits,p265,vits-p265,1319,To encourage the staff increases.,8,dailydialog
+vits-p265_8_sample_2.wav,2,vits,p265,vits-p265,1319,To encourage the staff increases.,8,dailydialog
+vits-p265_9_sample_0.wav,0,vits,p265,vits-p265,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p265_9_sample_1.wav,1,vits,p265,vits-p265,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p265_9_sample_2.wav,2,vits,p265,vits-p265,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p281_0_sample_0.wav,0,vits,p281,vits-p281,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p281_0_sample_1.wav,1,vits,p281,vits-p281,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p281_0_sample_2.wav,2,vits,p281,vits-p281,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+vits-p281_1_sample_0.wav,0,vits,p281,vits-p281,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p281_1_sample_1.wav,1,vits,p281,vits-p281,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p281_1_sample_2.wav,2,vits,p281,vits-p281,315,"""Has she any brains?"" asked Ojo.",1,libritts
+vits-p281_2_sample_0.wav,0,vits,p281,vits-p281,329,"He would say good night, but not good bye.",2,libritts
+vits-p281_2_sample_1.wav,1,vits,p281,vits-p281,329,"He would say good night, but not good bye.",2,libritts
+vits-p281_2_sample_2.wav,2,vits,p281,vits-p281,329,"He would say good night, but not good bye.",2,libritts
+vits-p281_3_sample_0.wav,0,vits,p281,vits-p281,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p281_3_sample_1.wav,1,vits,p281,vits-p281,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p281_3_sample_2.wav,2,vits,p281,vits-p281,811,I haven't seen you around for a few days.,3,dailydialog
+vits-p281_4_sample_0.wav,0,vits,p281,vits-p281,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p281_4_sample_1.wav,1,vits,p281,vits-p281,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p281_4_sample_2.wav,2,vits,p281,vits-p281,849,"Here's the money, keep the changes, please.",4,dailydialog
+vits-p281_5_sample_0.wav,0,vits,p281,vits-p281,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p281_5_sample_1.wav,1,vits,p281,vits-p281,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p281_5_sample_2.wav,2,vits,p281,vits-p281,1067,Who ate the cookies that were sitting here?,5,dailydialog
+vits-p281_6_sample_0.wav,0,vits,p281,vits-p281,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p281_6_sample_1.wav,1,vits,p281,vits-p281,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p281_6_sample_2.wav,2,vits,p281,vits-p281,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+vits-p281_7_sample_0.wav,0,vits,p281,vits-p281,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p281_7_sample_1.wav,1,vits,p281,vits-p281,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p281_7_sample_2.wav,2,vits,p281,vits-p281,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+vits-p281_8_sample_0.wav,0,vits,p281,vits-p281,1319,To encourage the staff increases.,8,dailydialog
+vits-p281_8_sample_1.wav,1,vits,p281,vits-p281,1319,To encourage the staff increases.,8,dailydialog
+vits-p281_8_sample_2.wav,2,vits,p281,vits-p281,1319,To encourage the staff increases.,8,dailydialog
+vits-p281_9_sample_0.wav,0,vits,p281,vits-p281,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p281_9_sample_1.wav,1,vits,p281,vits-p281,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+vits-p281_9_sample_2.wav,2,vits,p281,vits-p281,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-0_0_sample_0.wav,0,bark-base,0,bark-base-0,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-0_0_sample_1.wav,1,bark-base,0,bark-base-0,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-0_0_sample_2.wav,2,bark-base,0,bark-base-0,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-0_1_sample_0.wav,0,bark-base,0,bark-base-0,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-0_1_sample_1.wav,1,bark-base,0,bark-base-0,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-0_1_sample_2.wav,2,bark-base,0,bark-base-0,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-0_2_sample_0.wav,0,bark-base,0,bark-base-0,329,"He would say good night, but not good bye.",2,libritts
+bark-base-0_2_sample_1.wav,1,bark-base,0,bark-base-0,329,"He would say good night, but not good bye.",2,libritts
+bark-base-0_2_sample_2.wav,2,bark-base,0,bark-base-0,329,"He would say good night, but not good bye.",2,libritts
+bark-small-0_0_sample_0.wav,0,bark-small,0,bark-small-0,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-0_0_sample_1.wav,1,bark-small,0,bark-small-0,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-0_0_sample_2.wav,2,bark-small,0,bark-small-0,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-0_1_sample_0.wav,0,bark-small,0,bark-small-0,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-0_1_sample_1.wav,1,bark-small,0,bark-small-0,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-0_1_sample_2.wav,2,bark-small,0,bark-small-0,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-0_2_sample_0.wav,0,bark-small,0,bark-small-0,329,"He would say good night, but not good bye.",2,libritts
+bark-small-0_2_sample_1.wav,1,bark-small,0,bark-small-0,329,"He would say good night, but not good bye.",2,libritts
+bark-small-0_2_sample_2.wav,2,bark-small,0,bark-small-0,329,"He would say good night, but not good bye.",2,libritts
+bark-base-0_3_sample_0.wav,0,bark-base,0,bark-base-0,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-0_3_sample_1.wav,1,bark-base,0,bark-base-0,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-0_3_sample_2.wav,2,bark-base,0,bark-base-0,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-0_4_sample_0.wav,0,bark-base,0,bark-base-0,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-0_4_sample_1.wav,1,bark-base,0,bark-base-0,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-0_4_sample_2.wav,2,bark-base,0,bark-base-0,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-0_5_sample_0.wav,0,bark-base,0,bark-base-0,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-0_5_sample_1.wav,1,bark-base,0,bark-base-0,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-0_5_sample_2.wav,2,bark-base,0,bark-base-0,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-0_6_sample_0.wav,0,bark-base,0,bark-base-0,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-0_6_sample_1.wav,1,bark-base,0,bark-base-0,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-0_6_sample_2.wav,2,bark-base,0,bark-base-0,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-0_7_sample_0.wav,0,bark-base,0,bark-base-0,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-0_7_sample_1.wav,1,bark-base,0,bark-base-0,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-0_7_sample_2.wav,2,bark-base,0,bark-base-0,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-0_8_sample_0.wav,0,bark-base,0,bark-base-0,1319,To encourage the staff increases.,8,dailydialog
+bark-base-0_9_sample_0.wav,0,bark-base,0,bark-base-0,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-0_8_sample_1.wav,1,bark-base,0,bark-base-0,1319,To encourage the staff increases.,8,dailydialog
+bark-base-0_9_sample_1.wav,1,bark-base,0,bark-base-0,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-0_8_sample_2.wav,2,bark-base,0,bark-base-0,1319,To encourage the staff increases.,8,dailydialog
+bark-base-0_9_sample_2.wav,2,bark-base,0,bark-base-0,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-0_3_sample_0.wav,0,bark-small,0,bark-small-0,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-0_3_sample_1.wav,1,bark-small,0,bark-small-0,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-0_3_sample_2.wav,2,bark-small,0,bark-small-0,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-0_4_sample_0.wav,0,bark-small,0,bark-small-0,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-0_4_sample_1.wav,1,bark-small,0,bark-small-0,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-0_4_sample_2.wav,2,bark-small,0,bark-small-0,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-0_5_sample_0.wav,0,bark-small,0,bark-small-0,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-0_5_sample_1.wav,1,bark-small,0,bark-small-0,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-0_5_sample_2.wav,2,bark-small,0,bark-small-0,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-0_6_sample_0.wav,0,bark-small,0,bark-small-0,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-0_6_sample_1.wav,1,bark-small,0,bark-small-0,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-0_6_sample_2.wav,2,bark-small,0,bark-small-0,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-0_7_sample_0.wav,0,bark-small,0,bark-small-0,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-0_7_sample_1.wav,1,bark-small,0,bark-small-0,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-0_7_sample_2.wav,2,bark-small,0,bark-small-0,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-0_8_sample_0.wav,0,bark-small,0,bark-small-0,1319,To encourage the staff increases.,8,dailydialog
+bark-small-0_9_sample_0.wav,0,bark-small,0,bark-small-0,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-0_8_sample_1.wav,1,bark-small,0,bark-small-0,1319,To encourage the staff increases.,8,dailydialog
+bark-small-0_9_sample_1.wav,1,bark-small,0,bark-small-0,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-0_8_sample_2.wav,2,bark-small,0,bark-small-0,1319,To encourage the staff increases.,8,dailydialog
+bark-small-0_9_sample_2.wav,2,bark-small,0,bark-small-0,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-1_0_sample_0.wav,0,bark-base,1,bark-base-1,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-1_0_sample_1.wav,1,bark-base,1,bark-base-1,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-1_0_sample_2.wav,2,bark-base,1,bark-base-1,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-1_1_sample_0.wav,0,bark-base,1,bark-base-1,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-1_1_sample_1.wav,1,bark-base,1,bark-base-1,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-1_1_sample_2.wav,2,bark-base,1,bark-base-1,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-1_2_sample_0.wav,0,bark-base,1,bark-base-1,329,"He would say good night, but not good bye.",2,libritts
+bark-base-1_2_sample_1.wav,1,bark-base,1,bark-base-1,329,"He would say good night, but not good bye.",2,libritts
+bark-base-1_2_sample_2.wav,2,bark-base,1,bark-base-1,329,"He would say good night, but not good bye.",2,libritts
+bark-small-1_0_sample_0.wav,0,bark-small,1,bark-small-1,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-1_0_sample_1.wav,1,bark-small,1,bark-small-1,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-1_0_sample_2.wav,2,bark-small,1,bark-small-1,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-1_1_sample_0.wav,0,bark-small,1,bark-small-1,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-1_1_sample_1.wav,1,bark-small,1,bark-small-1,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-1_1_sample_2.wav,2,bark-small,1,bark-small-1,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-1_2_sample_0.wav,0,bark-small,1,bark-small-1,329,"He would say good night, but not good bye.",2,libritts
+bark-small-1_2_sample_1.wav,1,bark-small,1,bark-small-1,329,"He would say good night, but not good bye.",2,libritts
+bark-small-1_2_sample_2.wav,2,bark-small,1,bark-small-1,329,"He would say good night, but not good bye.",2,libritts
+bark-base-1_3_sample_0.wav,0,bark-base,1,bark-base-1,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-1_3_sample_1.wav,1,bark-base,1,bark-base-1,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-1_3_sample_2.wav,2,bark-base,1,bark-base-1,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-1_4_sample_0.wav,0,bark-base,1,bark-base-1,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-1_4_sample_1.wav,1,bark-base,1,bark-base-1,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-1_4_sample_2.wav,2,bark-base,1,bark-base-1,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-1_5_sample_0.wav,0,bark-base,1,bark-base-1,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-1_5_sample_1.wav,1,bark-base,1,bark-base-1,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-1_5_sample_2.wav,2,bark-base,1,bark-base-1,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-1_6_sample_0.wav,0,bark-base,1,bark-base-1,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-1_6_sample_1.wav,1,bark-base,1,bark-base-1,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-1_6_sample_2.wav,2,bark-base,1,bark-base-1,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-1_7_sample_0.wav,0,bark-base,1,bark-base-1,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-1_7_sample_1.wav,1,bark-base,1,bark-base-1,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-1_7_sample_2.wav,2,bark-base,1,bark-base-1,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-1_8_sample_0.wav,0,bark-base,1,bark-base-1,1319,To encourage the staff increases.,8,dailydialog
+bark-base-1_9_sample_0.wav,0,bark-base,1,bark-base-1,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-1_8_sample_1.wav,1,bark-base,1,bark-base-1,1319,To encourage the staff increases.,8,dailydialog
+bark-base-1_9_sample_1.wav,1,bark-base,1,bark-base-1,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-1_8_sample_2.wav,2,bark-base,1,bark-base-1,1319,To encourage the staff increases.,8,dailydialog
+bark-base-1_9_sample_2.wav,2,bark-base,1,bark-base-1,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-1_3_sample_0.wav,0,bark-small,1,bark-small-1,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-1_3_sample_1.wav,1,bark-small,1,bark-small-1,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-1_3_sample_2.wav,2,bark-small,1,bark-small-1,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-1_4_sample_0.wav,0,bark-small,1,bark-small-1,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-1_4_sample_1.wav,1,bark-small,1,bark-small-1,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-1_4_sample_2.wav,2,bark-small,1,bark-small-1,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-1_5_sample_0.wav,0,bark-small,1,bark-small-1,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-1_5_sample_1.wav,1,bark-small,1,bark-small-1,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-1_5_sample_2.wav,2,bark-small,1,bark-small-1,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-1_6_sample_0.wav,0,bark-small,1,bark-small-1,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-1_6_sample_1.wav,1,bark-small,1,bark-small-1,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-1_6_sample_2.wav,2,bark-small,1,bark-small-1,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-1_7_sample_0.wav,0,bark-small,1,bark-small-1,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-1_7_sample_1.wav,1,bark-small,1,bark-small-1,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-1_7_sample_2.wav,2,bark-small,1,bark-small-1,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-1_8_sample_0.wav,0,bark-small,1,bark-small-1,1319,To encourage the staff increases.,8,dailydialog
+bark-small-1_9_sample_0.wav,0,bark-small,1,bark-small-1,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-1_8_sample_1.wav,1,bark-small,1,bark-small-1,1319,To encourage the staff increases.,8,dailydialog
+bark-small-1_9_sample_1.wav,1,bark-small,1,bark-small-1,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-1_8_sample_2.wav,2,bark-small,1,bark-small-1,1319,To encourage the staff increases.,8,dailydialog
+bark-small-1_9_sample_2.wav,2,bark-small,1,bark-small-1,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-2_0_sample_0.wav,0,bark-base,2,bark-base-2,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-2_0_sample_1.wav,1,bark-base,2,bark-base-2,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-2_0_sample_2.wav,2,bark-base,2,bark-base-2,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-2_1_sample_0.wav,0,bark-base,2,bark-base-2,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-2_1_sample_1.wav,1,bark-base,2,bark-base-2,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-2_1_sample_2.wav,2,bark-base,2,bark-base-2,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-2_2_sample_0.wav,0,bark-base,2,bark-base-2,329,"He would say good night, but not good bye.",2,libritts
+bark-base-2_2_sample_1.wav,1,bark-base,2,bark-base-2,329,"He would say good night, but not good bye.",2,libritts
+bark-base-2_2_sample_2.wav,2,bark-base,2,bark-base-2,329,"He would say good night, but not good bye.",2,libritts
+bark-small-2_0_sample_0.wav,0,bark-small,2,bark-small-2,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-2_0_sample_1.wav,1,bark-small,2,bark-small-2,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-2_0_sample_2.wav,2,bark-small,2,bark-small-2,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-2_1_sample_0.wav,0,bark-small,2,bark-small-2,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-2_1_sample_1.wav,1,bark-small,2,bark-small-2,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-2_1_sample_2.wav,2,bark-small,2,bark-small-2,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-2_2_sample_0.wav,0,bark-small,2,bark-small-2,329,"He would say good night, but not good bye.",2,libritts
+bark-small-2_2_sample_1.wav,1,bark-small,2,bark-small-2,329,"He would say good night, but not good bye.",2,libritts
+bark-small-2_2_sample_2.wav,2,bark-small,2,bark-small-2,329,"He would say good night, but not good bye.",2,libritts
+bark-base-2_3_sample_0.wav,0,bark-base,2,bark-base-2,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-2_3_sample_1.wav,1,bark-base,2,bark-base-2,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-2_3_sample_2.wav,2,bark-base,2,bark-base-2,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-2_4_sample_0.wav,0,bark-base,2,bark-base-2,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-2_4_sample_1.wav,1,bark-base,2,bark-base-2,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-2_4_sample_2.wav,2,bark-base,2,bark-base-2,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-2_5_sample_0.wav,0,bark-base,2,bark-base-2,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-2_5_sample_1.wav,1,bark-base,2,bark-base-2,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-2_5_sample_2.wav,2,bark-base,2,bark-base-2,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-2_6_sample_0.wav,0,bark-base,2,bark-base-2,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-2_6_sample_1.wav,1,bark-base,2,bark-base-2,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-2_6_sample_2.wav,2,bark-base,2,bark-base-2,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-2_7_sample_0.wav,0,bark-base,2,bark-base-2,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-2_7_sample_1.wav,1,bark-base,2,bark-base-2,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-2_7_sample_2.wav,2,bark-base,2,bark-base-2,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-2_8_sample_0.wav,0,bark-base,2,bark-base-2,1319,To encourage the staff increases.,8,dailydialog
+bark-base-2_9_sample_0.wav,0,bark-base,2,bark-base-2,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-2_8_sample_1.wav,1,bark-base,2,bark-base-2,1319,To encourage the staff increases.,8,dailydialog
+bark-base-2_9_sample_1.wav,1,bark-base,2,bark-base-2,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-2_8_sample_2.wav,2,bark-base,2,bark-base-2,1319,To encourage the staff increases.,8,dailydialog
+bark-base-2_9_sample_2.wav,2,bark-base,2,bark-base-2,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-2_3_sample_0.wav,0,bark-small,2,bark-small-2,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-2_3_sample_1.wav,1,bark-small,2,bark-small-2,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-2_3_sample_2.wav,2,bark-small,2,bark-small-2,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-2_4_sample_0.wav,0,bark-small,2,bark-small-2,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-2_4_sample_1.wav,1,bark-small,2,bark-small-2,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-2_4_sample_2.wav,2,bark-small,2,bark-small-2,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-2_5_sample_0.wav,0,bark-small,2,bark-small-2,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-2_5_sample_1.wav,1,bark-small,2,bark-small-2,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-2_5_sample_2.wav,2,bark-small,2,bark-small-2,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-2_6_sample_0.wav,0,bark-small,2,bark-small-2,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-2_6_sample_1.wav,1,bark-small,2,bark-small-2,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-2_6_sample_2.wav,2,bark-small,2,bark-small-2,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-2_7_sample_0.wav,0,bark-small,2,bark-small-2,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-2_7_sample_1.wav,1,bark-small,2,bark-small-2,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-2_7_sample_2.wav,2,bark-small,2,bark-small-2,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-2_8_sample_0.wav,0,bark-small,2,bark-small-2,1319,To encourage the staff increases.,8,dailydialog
+bark-small-2_9_sample_0.wav,0,bark-small,2,bark-small-2,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-2_8_sample_1.wav,1,bark-small,2,bark-small-2,1319,To encourage the staff increases.,8,dailydialog
+bark-small-2_9_sample_1.wav,1,bark-small,2,bark-small-2,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-2_8_sample_2.wav,2,bark-small,2,bark-small-2,1319,To encourage the staff increases.,8,dailydialog
+bark-small-2_9_sample_2.wav,2,bark-small,2,bark-small-2,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-3_0_sample_0.wav,0,bark-base,3,bark-base-3,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-3_0_sample_1.wav,1,bark-base,3,bark-base-3,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-3_0_sample_2.wav,2,bark-base,3,bark-base-3,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-3_1_sample_0.wav,0,bark-base,3,bark-base-3,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-3_1_sample_1.wav,1,bark-base,3,bark-base-3,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-3_1_sample_2.wav,2,bark-base,3,bark-base-3,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-3_2_sample_0.wav,0,bark-base,3,bark-base-3,329,"He would say good night, but not good bye.",2,libritts
+bark-base-3_2_sample_1.wav,1,bark-base,3,bark-base-3,329,"He would say good night, but not good bye.",2,libritts
+bark-base-3_2_sample_2.wav,2,bark-base,3,bark-base-3,329,"He would say good night, but not good bye.",2,libritts
+bark-small-3_0_sample_0.wav,0,bark-small,3,bark-small-3,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-3_0_sample_1.wav,1,bark-small,3,bark-small-3,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-3_0_sample_2.wav,2,bark-small,3,bark-small-3,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-3_1_sample_0.wav,0,bark-small,3,bark-small-3,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-3_1_sample_1.wav,1,bark-small,3,bark-small-3,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-3_1_sample_2.wav,2,bark-small,3,bark-small-3,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-3_2_sample_0.wav,0,bark-small,3,bark-small-3,329,"He would say good night, but not good bye.",2,libritts
+bark-small-3_2_sample_1.wav,1,bark-small,3,bark-small-3,329,"He would say good night, but not good bye.",2,libritts
+bark-small-3_2_sample_2.wav,2,bark-small,3,bark-small-3,329,"He would say good night, but not good bye.",2,libritts
+bark-base-3_3_sample_0.wav,0,bark-base,3,bark-base-3,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-3_3_sample_1.wav,1,bark-base,3,bark-base-3,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-3_3_sample_2.wav,2,bark-base,3,bark-base-3,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-3_4_sample_0.wav,0,bark-base,3,bark-base-3,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-3_4_sample_1.wav,1,bark-base,3,bark-base-3,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-3_4_sample_2.wav,2,bark-base,3,bark-base-3,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-3_5_sample_0.wav,0,bark-base,3,bark-base-3,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-3_5_sample_1.wav,1,bark-base,3,bark-base-3,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-3_5_sample_2.wav,2,bark-base,3,bark-base-3,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-3_6_sample_0.wav,0,bark-base,3,bark-base-3,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-3_6_sample_1.wav,1,bark-base,3,bark-base-3,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-3_6_sample_2.wav,2,bark-base,3,bark-base-3,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-3_7_sample_0.wav,0,bark-base,3,bark-base-3,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-3_7_sample_1.wav,1,bark-base,3,bark-base-3,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-3_7_sample_2.wav,2,bark-base,3,bark-base-3,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-3_8_sample_0.wav,0,bark-base,3,bark-base-3,1319,To encourage the staff increases.,8,dailydialog
+bark-base-3_9_sample_0.wav,0,bark-base,3,bark-base-3,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-3_8_sample_1.wav,1,bark-base,3,bark-base-3,1319,To encourage the staff increases.,8,dailydialog
+bark-base-3_9_sample_1.wav,1,bark-base,3,bark-base-3,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-3_8_sample_2.wav,2,bark-base,3,bark-base-3,1319,To encourage the staff increases.,8,dailydialog
+bark-base-3_9_sample_2.wav,2,bark-base,3,bark-base-3,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-3_3_sample_0.wav,0,bark-small,3,bark-small-3,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-3_3_sample_1.wav,1,bark-small,3,bark-small-3,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-3_3_sample_2.wav,2,bark-small,3,bark-small-3,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-3_4_sample_0.wav,0,bark-small,3,bark-small-3,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-3_4_sample_1.wav,1,bark-small,3,bark-small-3,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-3_4_sample_2.wav,2,bark-small,3,bark-small-3,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-3_5_sample_0.wav,0,bark-small,3,bark-small-3,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-3_5_sample_1.wav,1,bark-small,3,bark-small-3,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-3_5_sample_2.wav,2,bark-small,3,bark-small-3,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-3_6_sample_0.wav,0,bark-small,3,bark-small-3,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-3_6_sample_1.wav,1,bark-small,3,bark-small-3,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-3_6_sample_2.wav,2,bark-small,3,bark-small-3,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-3_7_sample_0.wav,0,bark-small,3,bark-small-3,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-3_7_sample_1.wav,1,bark-small,3,bark-small-3,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-3_7_sample_2.wav,2,bark-small,3,bark-small-3,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-3_8_sample_0.wav,0,bark-small,3,bark-small-3,1319,To encourage the staff increases.,8,dailydialog
+bark-small-3_9_sample_0.wav,0,bark-small,3,bark-small-3,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-3_8_sample_1.wav,1,bark-small,3,bark-small-3,1319,To encourage the staff increases.,8,dailydialog
+bark-small-3_9_sample_1.wav,1,bark-small,3,bark-small-3,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-3_8_sample_2.wav,2,bark-small,3,bark-small-3,1319,To encourage the staff increases.,8,dailydialog
+bark-small-3_9_sample_2.wav,2,bark-small,3,bark-small-3,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-4_0_sample_0.wav,0,bark-base,4,bark-base-4,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-4_0_sample_1.wav,1,bark-base,4,bark-base-4,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-4_0_sample_2.wav,2,bark-base,4,bark-base-4,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-4_1_sample_0.wav,0,bark-base,4,bark-base-4,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-4_1_sample_1.wav,1,bark-base,4,bark-base-4,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-4_1_sample_2.wav,2,bark-base,4,bark-base-4,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-4_2_sample_0.wav,0,bark-base,4,bark-base-4,329,"He would say good night, but not good bye.",2,libritts
+bark-base-4_2_sample_1.wav,1,bark-base,4,bark-base-4,329,"He would say good night, but not good bye.",2,libritts
+bark-base-4_2_sample_2.wav,2,bark-base,4,bark-base-4,329,"He would say good night, but not good bye.",2,libritts
+bark-small-4_0_sample_0.wav,0,bark-small,4,bark-small-4,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-4_0_sample_1.wav,1,bark-small,4,bark-small-4,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-4_0_sample_2.wav,2,bark-small,4,bark-small-4,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-4_1_sample_0.wav,0,bark-small,4,bark-small-4,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-4_1_sample_1.wav,1,bark-small,4,bark-small-4,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-4_1_sample_2.wav,2,bark-small,4,bark-small-4,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-4_2_sample_0.wav,0,bark-small,4,bark-small-4,329,"He would say good night, but not good bye.",2,libritts
+bark-small-4_2_sample_1.wav,1,bark-small,4,bark-small-4,329,"He would say good night, but not good bye.",2,libritts
+bark-small-4_2_sample_2.wav,2,bark-small,4,bark-small-4,329,"He would say good night, but not good bye.",2,libritts
+bark-base-4_3_sample_0.wav,0,bark-base,4,bark-base-4,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-4_3_sample_1.wav,1,bark-base,4,bark-base-4,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-4_3_sample_2.wav,2,bark-base,4,bark-base-4,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-4_4_sample_0.wav,0,bark-base,4,bark-base-4,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-4_4_sample_1.wav,1,bark-base,4,bark-base-4,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-4_4_sample_2.wav,2,bark-base,4,bark-base-4,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-4_5_sample_0.wav,0,bark-base,4,bark-base-4,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-4_5_sample_1.wav,1,bark-base,4,bark-base-4,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-4_5_sample_2.wav,2,bark-base,4,bark-base-4,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-4_6_sample_0.wav,0,bark-base,4,bark-base-4,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-4_6_sample_1.wav,1,bark-base,4,bark-base-4,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-4_6_sample_2.wav,2,bark-base,4,bark-base-4,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-4_7_sample_0.wav,0,bark-base,4,bark-base-4,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-4_7_sample_1.wav,1,bark-base,4,bark-base-4,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-4_7_sample_2.wav,2,bark-base,4,bark-base-4,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-4_8_sample_0.wav,0,bark-base,4,bark-base-4,1319,To encourage the staff increases.,8,dailydialog
+bark-base-4_9_sample_0.wav,0,bark-base,4,bark-base-4,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-4_8_sample_1.wav,1,bark-base,4,bark-base-4,1319,To encourage the staff increases.,8,dailydialog
+bark-base-4_9_sample_1.wav,1,bark-base,4,bark-base-4,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-4_8_sample_2.wav,2,bark-base,4,bark-base-4,1319,To encourage the staff increases.,8,dailydialog
+bark-base-4_9_sample_2.wav,2,bark-base,4,bark-base-4,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-4_3_sample_0.wav,0,bark-small,4,bark-small-4,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-4_3_sample_1.wav,1,bark-small,4,bark-small-4,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-4_3_sample_2.wav,2,bark-small,4,bark-small-4,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-4_4_sample_0.wav,0,bark-small,4,bark-small-4,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-4_4_sample_1.wav,1,bark-small,4,bark-small-4,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-4_4_sample_2.wav,2,bark-small,4,bark-small-4,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-4_5_sample_0.wav,0,bark-small,4,bark-small-4,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-4_5_sample_1.wav,1,bark-small,4,bark-small-4,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-4_5_sample_2.wav,2,bark-small,4,bark-small-4,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-4_6_sample_0.wav,0,bark-small,4,bark-small-4,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-4_6_sample_1.wav,1,bark-small,4,bark-small-4,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-4_6_sample_2.wav,2,bark-small,4,bark-small-4,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-4_7_sample_0.wav,0,bark-small,4,bark-small-4,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-4_7_sample_1.wav,1,bark-small,4,bark-small-4,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-4_7_sample_2.wav,2,bark-small,4,bark-small-4,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-4_8_sample_0.wav,0,bark-small,4,bark-small-4,1319,To encourage the staff increases.,8,dailydialog
+bark-small-4_9_sample_0.wav,0,bark-small,4,bark-small-4,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-4_8_sample_1.wav,1,bark-small,4,bark-small-4,1319,To encourage the staff increases.,8,dailydialog
+bark-small-4_9_sample_1.wav,1,bark-small,4,bark-small-4,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-4_8_sample_2.wav,2,bark-small,4,bark-small-4,1319,To encourage the staff increases.,8,dailydialog
+bark-small-4_9_sample_2.wav,2,bark-small,4,bark-small-4,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-5_0_sample_0.wav,0,bark-base,5,bark-base-5,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-5_0_sample_1.wav,1,bark-base,5,bark-base-5,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-5_0_sample_2.wav,2,bark-base,5,bark-base-5,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-5_1_sample_0.wav,0,bark-base,5,bark-base-5,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-5_1_sample_1.wav,1,bark-base,5,bark-base-5,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-5_1_sample_2.wav,2,bark-base,5,bark-base-5,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-5_2_sample_0.wav,0,bark-base,5,bark-base-5,329,"He would say good night, but not good bye.",2,libritts
+bark-base-5_2_sample_1.wav,1,bark-base,5,bark-base-5,329,"He would say good night, but not good bye.",2,libritts
+bark-base-5_2_sample_2.wav,2,bark-base,5,bark-base-5,329,"He would say good night, but not good bye.",2,libritts
+bark-small-5_0_sample_0.wav,0,bark-small,5,bark-small-5,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-5_0_sample_1.wav,1,bark-small,5,bark-small-5,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-5_0_sample_2.wav,2,bark-small,5,bark-small-5,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-5_1_sample_0.wav,0,bark-small,5,bark-small-5,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-5_1_sample_1.wav,1,bark-small,5,bark-small-5,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-5_1_sample_2.wav,2,bark-small,5,bark-small-5,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-5_2_sample_0.wav,0,bark-small,5,bark-small-5,329,"He would say good night, but not good bye.",2,libritts
+bark-small-5_2_sample_1.wav,1,bark-small,5,bark-small-5,329,"He would say good night, but not good bye.",2,libritts
+bark-small-5_2_sample_2.wav,2,bark-small,5,bark-small-5,329,"He would say good night, but not good bye.",2,libritts
+bark-base-5_3_sample_0.wav,0,bark-base,5,bark-base-5,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-5_3_sample_1.wav,1,bark-base,5,bark-base-5,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-5_3_sample_2.wav,2,bark-base,5,bark-base-5,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-5_4_sample_0.wav,0,bark-base,5,bark-base-5,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-5_4_sample_1.wav,1,bark-base,5,bark-base-5,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-5_4_sample_2.wav,2,bark-base,5,bark-base-5,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-5_5_sample_0.wav,0,bark-base,5,bark-base-5,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-5_5_sample_1.wav,1,bark-base,5,bark-base-5,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-5_5_sample_2.wav,2,bark-base,5,bark-base-5,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-5_6_sample_0.wav,0,bark-base,5,bark-base-5,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-5_6_sample_1.wav,1,bark-base,5,bark-base-5,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-5_6_sample_2.wav,2,bark-base,5,bark-base-5,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-5_7_sample_0.wav,0,bark-base,5,bark-base-5,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-5_7_sample_1.wav,1,bark-base,5,bark-base-5,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-5_7_sample_2.wav,2,bark-base,5,bark-base-5,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-5_8_sample_0.wav,0,bark-base,5,bark-base-5,1319,To encourage the staff increases.,8,dailydialog
+bark-base-5_9_sample_0.wav,0,bark-base,5,bark-base-5,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-5_8_sample_1.wav,1,bark-base,5,bark-base-5,1319,To encourage the staff increases.,8,dailydialog
+bark-base-5_9_sample_1.wav,1,bark-base,5,bark-base-5,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-5_8_sample_2.wav,2,bark-base,5,bark-base-5,1319,To encourage the staff increases.,8,dailydialog
+bark-base-5_9_sample_2.wav,2,bark-base,5,bark-base-5,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-5_3_sample_0.wav,0,bark-small,5,bark-small-5,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-5_3_sample_1.wav,1,bark-small,5,bark-small-5,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-5_3_sample_2.wav,2,bark-small,5,bark-small-5,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-5_4_sample_0.wav,0,bark-small,5,bark-small-5,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-5_4_sample_1.wav,1,bark-small,5,bark-small-5,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-5_4_sample_2.wav,2,bark-small,5,bark-small-5,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-5_5_sample_0.wav,0,bark-small,5,bark-small-5,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-5_5_sample_1.wav,1,bark-small,5,bark-small-5,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-5_5_sample_2.wav,2,bark-small,5,bark-small-5,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-5_6_sample_0.wav,0,bark-small,5,bark-small-5,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-5_6_sample_1.wav,1,bark-small,5,bark-small-5,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-5_6_sample_2.wav,2,bark-small,5,bark-small-5,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-5_7_sample_0.wav,0,bark-small,5,bark-small-5,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-5_7_sample_1.wav,1,bark-small,5,bark-small-5,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-5_7_sample_2.wav,2,bark-small,5,bark-small-5,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-5_8_sample_0.wav,0,bark-small,5,bark-small-5,1319,To encourage the staff increases.,8,dailydialog
+bark-small-5_9_sample_0.wav,0,bark-small,5,bark-small-5,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-5_8_sample_1.wav,1,bark-small,5,bark-small-5,1319,To encourage the staff increases.,8,dailydialog
+bark-small-5_9_sample_1.wav,1,bark-small,5,bark-small-5,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-5_8_sample_2.wav,2,bark-small,5,bark-small-5,1319,To encourage the staff increases.,8,dailydialog
+bark-small-5_9_sample_2.wav,2,bark-small,5,bark-small-5,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-6_0_sample_0.wav,0,bark-base,6,bark-base-6,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-6_0_sample_1.wav,1,bark-base,6,bark-base-6,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-6_0_sample_2.wav,2,bark-base,6,bark-base-6,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-6_1_sample_0.wav,0,bark-base,6,bark-base-6,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-6_1_sample_1.wav,1,bark-base,6,bark-base-6,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-6_1_sample_2.wav,2,bark-base,6,bark-base-6,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-6_2_sample_0.wav,0,bark-base,6,bark-base-6,329,"He would say good night, but not good bye.",2,libritts
+bark-base-6_2_sample_1.wav,1,bark-base,6,bark-base-6,329,"He would say good night, but not good bye.",2,libritts
+bark-base-6_2_sample_2.wav,2,bark-base,6,bark-base-6,329,"He would say good night, but not good bye.",2,libritts
+bark-small-6_0_sample_0.wav,0,bark-small,6,bark-small-6,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-6_0_sample_1.wav,1,bark-small,6,bark-small-6,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-6_0_sample_2.wav,2,bark-small,6,bark-small-6,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-6_1_sample_0.wav,0,bark-small,6,bark-small-6,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-6_1_sample_1.wav,1,bark-small,6,bark-small-6,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-6_1_sample_2.wav,2,bark-small,6,bark-small-6,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-6_2_sample_0.wav,0,bark-small,6,bark-small-6,329,"He would say good night, but not good bye.",2,libritts
+bark-small-6_2_sample_1.wav,1,bark-small,6,bark-small-6,329,"He would say good night, but not good bye.",2,libritts
+bark-small-6_2_sample_2.wav,2,bark-small,6,bark-small-6,329,"He would say good night, but not good bye.",2,libritts
+bark-base-6_3_sample_0.wav,0,bark-base,6,bark-base-6,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-6_3_sample_1.wav,1,bark-base,6,bark-base-6,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-6_3_sample_2.wav,2,bark-base,6,bark-base-6,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-6_4_sample_0.wav,0,bark-base,6,bark-base-6,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-6_4_sample_1.wav,1,bark-base,6,bark-base-6,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-6_4_sample_2.wav,2,bark-base,6,bark-base-6,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-6_5_sample_0.wav,0,bark-base,6,bark-base-6,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-6_5_sample_1.wav,1,bark-base,6,bark-base-6,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-6_5_sample_2.wav,2,bark-base,6,bark-base-6,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-6_6_sample_0.wav,0,bark-base,6,bark-base-6,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-6_6_sample_1.wav,1,bark-base,6,bark-base-6,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-6_6_sample_2.wav,2,bark-base,6,bark-base-6,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-6_7_sample_0.wav,0,bark-base,6,bark-base-6,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-6_7_sample_1.wav,1,bark-base,6,bark-base-6,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-6_7_sample_2.wav,2,bark-base,6,bark-base-6,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-6_8_sample_0.wav,0,bark-base,6,bark-base-6,1319,To encourage the staff increases.,8,dailydialog
+bark-base-6_9_sample_0.wav,0,bark-base,6,bark-base-6,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-6_8_sample_1.wav,1,bark-base,6,bark-base-6,1319,To encourage the staff increases.,8,dailydialog
+bark-base-6_9_sample_1.wav,1,bark-base,6,bark-base-6,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-6_8_sample_2.wav,2,bark-base,6,bark-base-6,1319,To encourage the staff increases.,8,dailydialog
+bark-base-6_9_sample_2.wav,2,bark-base,6,bark-base-6,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-6_3_sample_0.wav,0,bark-small,6,bark-small-6,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-6_3_sample_1.wav,1,bark-small,6,bark-small-6,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-6_3_sample_2.wav,2,bark-small,6,bark-small-6,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-6_4_sample_0.wav,0,bark-small,6,bark-small-6,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-6_4_sample_1.wav,1,bark-small,6,bark-small-6,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-6_4_sample_2.wav,2,bark-small,6,bark-small-6,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-6_5_sample_0.wav,0,bark-small,6,bark-small-6,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-6_5_sample_1.wav,1,bark-small,6,bark-small-6,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-6_5_sample_2.wav,2,bark-small,6,bark-small-6,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-6_6_sample_0.wav,0,bark-small,6,bark-small-6,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-6_6_sample_1.wav,1,bark-small,6,bark-small-6,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-6_6_sample_2.wav,2,bark-small,6,bark-small-6,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-6_7_sample_0.wav,0,bark-small,6,bark-small-6,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-6_7_sample_1.wav,1,bark-small,6,bark-small-6,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-6_7_sample_2.wav,2,bark-small,6,bark-small-6,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-6_8_sample_0.wav,0,bark-small,6,bark-small-6,1319,To encourage the staff increases.,8,dailydialog
+bark-small-6_9_sample_0.wav,0,bark-small,6,bark-small-6,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-6_8_sample_1.wav,1,bark-small,6,bark-small-6,1319,To encourage the staff increases.,8,dailydialog
+bark-small-6_9_sample_1.wav,1,bark-small,6,bark-small-6,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-6_8_sample_2.wav,2,bark-small,6,bark-small-6,1319,To encourage the staff increases.,8,dailydialog
+bark-small-6_9_sample_2.wav,2,bark-small,6,bark-small-6,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-7_0_sample_0.wav,0,bark-base,7,bark-base-7,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-7_0_sample_1.wav,1,bark-base,7,bark-base-7,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-7_0_sample_2.wav,2,bark-base,7,bark-base-7,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-7_1_sample_0.wav,0,bark-base,7,bark-base-7,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-7_1_sample_1.wav,1,bark-base,7,bark-base-7,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-7_1_sample_2.wav,2,bark-base,7,bark-base-7,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-7_2_sample_0.wav,0,bark-base,7,bark-base-7,329,"He would say good night, but not good bye.",2,libritts
+bark-base-7_2_sample_1.wav,1,bark-base,7,bark-base-7,329,"He would say good night, but not good bye.",2,libritts
+bark-base-7_2_sample_2.wav,2,bark-base,7,bark-base-7,329,"He would say good night, but not good bye.",2,libritts
+bark-small-7_0_sample_0.wav,0,bark-small,7,bark-small-7,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-7_0_sample_1.wav,1,bark-small,7,bark-small-7,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-7_0_sample_2.wav,2,bark-small,7,bark-small-7,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-7_1_sample_0.wav,0,bark-small,7,bark-small-7,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-7_1_sample_1.wav,1,bark-small,7,bark-small-7,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-7_1_sample_2.wav,2,bark-small,7,bark-small-7,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-7_2_sample_0.wav,0,bark-small,7,bark-small-7,329,"He would say good night, but not good bye.",2,libritts
+bark-small-7_2_sample_1.wav,1,bark-small,7,bark-small-7,329,"He would say good night, but not good bye.",2,libritts
+bark-small-7_2_sample_2.wav,2,bark-small,7,bark-small-7,329,"He would say good night, but not good bye.",2,libritts
+bark-base-7_3_sample_0.wav,0,bark-base,7,bark-base-7,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-7_3_sample_1.wav,1,bark-base,7,bark-base-7,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-7_3_sample_2.wav,2,bark-base,7,bark-base-7,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-7_4_sample_0.wav,0,bark-base,7,bark-base-7,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-7_4_sample_1.wav,1,bark-base,7,bark-base-7,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-7_4_sample_2.wav,2,bark-base,7,bark-base-7,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-7_5_sample_0.wav,0,bark-base,7,bark-base-7,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-7_5_sample_1.wav,1,bark-base,7,bark-base-7,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-7_5_sample_2.wav,2,bark-base,7,bark-base-7,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-7_6_sample_0.wav,0,bark-base,7,bark-base-7,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-7_6_sample_1.wav,1,bark-base,7,bark-base-7,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-7_6_sample_2.wav,2,bark-base,7,bark-base-7,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-7_7_sample_0.wav,0,bark-base,7,bark-base-7,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-7_7_sample_1.wav,1,bark-base,7,bark-base-7,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-7_7_sample_2.wav,2,bark-base,7,bark-base-7,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-7_8_sample_0.wav,0,bark-base,7,bark-base-7,1319,To encourage the staff increases.,8,dailydialog
+bark-base-7_9_sample_0.wav,0,bark-base,7,bark-base-7,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-7_8_sample_1.wav,1,bark-base,7,bark-base-7,1319,To encourage the staff increases.,8,dailydialog
+bark-base-7_9_sample_1.wav,1,bark-base,7,bark-base-7,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-7_8_sample_2.wav,2,bark-base,7,bark-base-7,1319,To encourage the staff increases.,8,dailydialog
+bark-base-7_9_sample_2.wav,2,bark-base,7,bark-base-7,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-7_3_sample_0.wav,0,bark-small,7,bark-small-7,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-7_3_sample_1.wav,1,bark-small,7,bark-small-7,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-7_3_sample_2.wav,2,bark-small,7,bark-small-7,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-7_4_sample_0.wav,0,bark-small,7,bark-small-7,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-7_4_sample_1.wav,1,bark-small,7,bark-small-7,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-7_4_sample_2.wav,2,bark-small,7,bark-small-7,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-7_5_sample_0.wav,0,bark-small,7,bark-small-7,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-7_5_sample_1.wav,1,bark-small,7,bark-small-7,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-7_5_sample_2.wav,2,bark-small,7,bark-small-7,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-7_6_sample_0.wav,0,bark-small,7,bark-small-7,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-7_6_sample_1.wav,1,bark-small,7,bark-small-7,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-7_6_sample_2.wav,2,bark-small,7,bark-small-7,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-7_7_sample_0.wav,0,bark-small,7,bark-small-7,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-7_7_sample_1.wav,1,bark-small,7,bark-small-7,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-7_7_sample_2.wav,2,bark-small,7,bark-small-7,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-7_8_sample_0.wav,0,bark-small,7,bark-small-7,1319,To encourage the staff increases.,8,dailydialog
+bark-small-7_9_sample_0.wav,0,bark-small,7,bark-small-7,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-7_8_sample_1.wav,1,bark-small,7,bark-small-7,1319,To encourage the staff increases.,8,dailydialog
+bark-small-7_9_sample_1.wav,1,bark-small,7,bark-small-7,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-7_8_sample_2.wav,2,bark-small,7,bark-small-7,1319,To encourage the staff increases.,8,dailydialog
+bark-small-7_9_sample_2.wav,2,bark-small,7,bark-small-7,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-8_0_sample_0.wav,0,bark-base,8,bark-base-8,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-8_0_sample_1.wav,1,bark-base,8,bark-base-8,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-8_0_sample_2.wav,2,bark-base,8,bark-base-8,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-8_1_sample_0.wav,0,bark-base,8,bark-base-8,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-8_1_sample_1.wav,1,bark-base,8,bark-base-8,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-8_1_sample_2.wav,2,bark-base,8,bark-base-8,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-8_2_sample_0.wav,0,bark-base,8,bark-base-8,329,"He would say good night, but not good bye.",2,libritts
+bark-base-8_2_sample_1.wav,1,bark-base,8,bark-base-8,329,"He would say good night, but not good bye.",2,libritts
+bark-base-8_2_sample_2.wav,2,bark-base,8,bark-base-8,329,"He would say good night, but not good bye.",2,libritts
+bark-small-8_0_sample_0.wav,0,bark-small,8,bark-small-8,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-8_0_sample_1.wav,1,bark-small,8,bark-small-8,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-8_0_sample_2.wav,2,bark-small,8,bark-small-8,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-8_1_sample_0.wav,0,bark-small,8,bark-small-8,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-8_1_sample_1.wav,1,bark-small,8,bark-small-8,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-8_1_sample_2.wav,2,bark-small,8,bark-small-8,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-8_2_sample_0.wav,0,bark-small,8,bark-small-8,329,"He would say good night, but not good bye.",2,libritts
+bark-small-8_2_sample_1.wav,1,bark-small,8,bark-small-8,329,"He would say good night, but not good bye.",2,libritts
+bark-small-8_2_sample_2.wav,2,bark-small,8,bark-small-8,329,"He would say good night, but not good bye.",2,libritts
+bark-base-8_3_sample_0.wav,0,bark-base,8,bark-base-8,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-8_3_sample_1.wav,1,bark-base,8,bark-base-8,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-8_3_sample_2.wav,2,bark-base,8,bark-base-8,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-8_4_sample_0.wav,0,bark-base,8,bark-base-8,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-8_4_sample_1.wav,1,bark-base,8,bark-base-8,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-8_4_sample_2.wav,2,bark-base,8,bark-base-8,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-8_5_sample_0.wav,0,bark-base,8,bark-base-8,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-8_5_sample_1.wav,1,bark-base,8,bark-base-8,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-8_5_sample_2.wav,2,bark-base,8,bark-base-8,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-8_6_sample_0.wav,0,bark-base,8,bark-base-8,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-8_6_sample_1.wav,1,bark-base,8,bark-base-8,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-8_6_sample_2.wav,2,bark-base,8,bark-base-8,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-8_7_sample_0.wav,0,bark-base,8,bark-base-8,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-8_7_sample_1.wav,1,bark-base,8,bark-base-8,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-8_7_sample_2.wav,2,bark-base,8,bark-base-8,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-8_8_sample_0.wav,0,bark-base,8,bark-base-8,1319,To encourage the staff increases.,8,dailydialog
+bark-base-8_9_sample_0.wav,0,bark-base,8,bark-base-8,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-8_8_sample_1.wav,1,bark-base,8,bark-base-8,1319,To encourage the staff increases.,8,dailydialog
+bark-base-8_9_sample_1.wav,1,bark-base,8,bark-base-8,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-8_8_sample_2.wav,2,bark-base,8,bark-base-8,1319,To encourage the staff increases.,8,dailydialog
+bark-base-8_9_sample_2.wav,2,bark-base,8,bark-base-8,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-8_3_sample_0.wav,0,bark-small,8,bark-small-8,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-8_3_sample_1.wav,1,bark-small,8,bark-small-8,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-8_3_sample_2.wav,2,bark-small,8,bark-small-8,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-8_4_sample_0.wav,0,bark-small,8,bark-small-8,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-8_4_sample_1.wav,1,bark-small,8,bark-small-8,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-8_4_sample_2.wav,2,bark-small,8,bark-small-8,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-8_5_sample_0.wav,0,bark-small,8,bark-small-8,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-8_5_sample_1.wav,1,bark-small,8,bark-small-8,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-8_5_sample_2.wav,2,bark-small,8,bark-small-8,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-8_6_sample_0.wav,0,bark-small,8,bark-small-8,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-8_6_sample_1.wav,1,bark-small,8,bark-small-8,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-8_6_sample_2.wav,2,bark-small,8,bark-small-8,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-8_7_sample_0.wav,0,bark-small,8,bark-small-8,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-8_7_sample_1.wav,1,bark-small,8,bark-small-8,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-8_7_sample_2.wav,2,bark-small,8,bark-small-8,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-8_8_sample_0.wav,0,bark-small,8,bark-small-8,1319,To encourage the staff increases.,8,dailydialog
+bark-small-8_9_sample_0.wav,0,bark-small,8,bark-small-8,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-8_8_sample_1.wav,1,bark-small,8,bark-small-8,1319,To encourage the staff increases.,8,dailydialog
+bark-small-8_9_sample_1.wav,1,bark-small,8,bark-small-8,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-8_8_sample_2.wav,2,bark-small,8,bark-small-8,1319,To encourage the staff increases.,8,dailydialog
+bark-small-8_9_sample_2.wav,2,bark-small,8,bark-small-8,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-9_0_sample_0.wav,0,bark-base,9,bark-base-9,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-9_0_sample_1.wav,1,bark-base,9,bark-base-9,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-9_0_sample_2.wav,2,bark-base,9,bark-base-9,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-base-9_1_sample_0.wav,0,bark-base,9,bark-base-9,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-9_1_sample_1.wav,1,bark-base,9,bark-base-9,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-9_1_sample_2.wav,2,bark-base,9,bark-base-9,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-base-9_2_sample_0.wav,0,bark-base,9,bark-base-9,329,"He would say good night, but not good bye.",2,libritts
+bark-base-9_2_sample_1.wav,1,bark-base,9,bark-base-9,329,"He would say good night, but not good bye.",2,libritts
+bark-base-9_2_sample_2.wav,2,bark-base,9,bark-base-9,329,"He would say good night, but not good bye.",2,libritts
+bark-small-9_0_sample_0.wav,0,bark-small,9,bark-small-9,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-9_0_sample_1.wav,1,bark-small,9,bark-small-9,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-9_0_sample_2.wav,2,bark-small,9,bark-small-9,98,"He was such a big boy that he wore high boots and carried a jack knife. He gazed and gazed at the cap, and could not keep from fingering the blue tassel.",0,libritts
+bark-small-9_1_sample_0.wav,0,bark-small,9,bark-small-9,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-9_1_sample_1.wav,1,bark-small,9,bark-small-9,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-9_1_sample_2.wav,2,bark-small,9,bark-small-9,315,"""Has she any brains?"" asked Ojo.",1,libritts
+bark-small-9_2_sample_0.wav,0,bark-small,9,bark-small-9,329,"He would say good night, but not good bye.",2,libritts
+bark-small-9_2_sample_1.wav,1,bark-small,9,bark-small-9,329,"He would say good night, but not good bye.",2,libritts
+bark-small-9_2_sample_2.wav,2,bark-small,9,bark-small-9,329,"He would say good night, but not good bye.",2,libritts
+bark-base-9_3_sample_0.wav,0,bark-base,9,bark-base-9,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-9_3_sample_1.wav,1,bark-base,9,bark-base-9,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-9_3_sample_2.wav,2,bark-base,9,bark-base-9,811,I haven't seen you around for a few days.,3,dailydialog
+bark-base-9_4_sample_0.wav,0,bark-base,9,bark-base-9,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-9_4_sample_1.wav,1,bark-base,9,bark-base-9,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-9_4_sample_2.wav,2,bark-base,9,bark-base-9,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-base-9_5_sample_0.wav,0,bark-base,9,bark-base-9,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-9_5_sample_1.wav,1,bark-base,9,bark-base-9,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-9_5_sample_2.wav,2,bark-base,9,bark-base-9,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-base-9_6_sample_0.wav,0,bark-base,9,bark-base-9,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-9_6_sample_1.wav,1,bark-base,9,bark-base-9,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-9_6_sample_2.wav,2,bark-base,9,bark-base-9,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-base-9_7_sample_0.wav,0,bark-base,9,bark-base-9,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-9_7_sample_1.wav,1,bark-base,9,bark-base-9,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-9_7_sample_2.wav,2,bark-base,9,bark-base-9,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-base-9_8_sample_0.wav,0,bark-base,9,bark-base-9,1319,To encourage the staff increases.,8,dailydialog
+bark-base-9_9_sample_0.wav,0,bark-base,9,bark-base-9,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-9_8_sample_1.wav,1,bark-base,9,bark-base-9,1319,To encourage the staff increases.,8,dailydialog
+bark-base-9_9_sample_1.wav,1,bark-base,9,bark-base-9,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-base-9_8_sample_2.wav,2,bark-base,9,bark-base-9,1319,To encourage the staff increases.,8,dailydialog
+bark-base-9_9_sample_2.wav,2,bark-base,9,bark-base-9,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-9_3_sample_0.wav,0,bark-small,9,bark-small-9,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-9_3_sample_1.wav,1,bark-small,9,bark-small-9,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-9_3_sample_2.wav,2,bark-small,9,bark-small-9,811,I haven't seen you around for a few days.,3,dailydialog
+bark-small-9_4_sample_0.wav,0,bark-small,9,bark-small-9,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-9_4_sample_1.wav,1,bark-small,9,bark-small-9,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-9_4_sample_2.wav,2,bark-small,9,bark-small-9,849,"Here's the money, keep the changes, please.",4,dailydialog
+bark-small-9_5_sample_0.wav,0,bark-small,9,bark-small-9,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-9_5_sample_1.wav,1,bark-small,9,bark-small-9,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-9_5_sample_2.wav,2,bark-small,9,bark-small-9,1067,Who ate the cookies that were sitting here?,5,dailydialog
+bark-small-9_6_sample_0.wav,0,bark-small,9,bark-small-9,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-9_6_sample_1.wav,1,bark-small,9,bark-small-9,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-9_6_sample_2.wav,2,bark-small,9,bark-small-9,1225,"Tom, it's time for you to go to bed.",6,dailydialog
+bark-small-9_7_sample_0.wav,0,bark-small,9,bark-small-9,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-9_7_sample_1.wav,1,bark-small,9,bark-small-9,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-9_7_sample_2.wav,2,bark-small,9,bark-small-9,1235,"Sorry, sir. You have to pay by yourself.",7,dailydialog
+bark-small-9_8_sample_0.wav,0,bark-small,9,bark-small-9,1319,To encourage the staff increases.,8,dailydialog
+bark-small-9_9_sample_0.wav,0,bark-small,9,bark-small-9,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-9_8_sample_1.wav,1,bark-small,9,bark-small-9,1319,To encourage the staff increases.,8,dailydialog
+bark-small-9_9_sample_1.wav,1,bark-small,9,bark-small-9,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
+bark-small-9_8_sample_2.wav,2,bark-small,9,bark-small-9,1319,To encourage the staff increases.,8,dailydialog
+bark-small-9_9_sample_2.wav,2,bark-small,9,bark-small-9,1326,The American dollar is now worth 7. 45RMB. 35.,9,dailydialog
